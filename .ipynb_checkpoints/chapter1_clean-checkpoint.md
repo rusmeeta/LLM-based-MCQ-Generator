@@ -7,7 +7,6 @@ Food is one of the basic requirements of all living organisms as it provides ene
 Human digestive system consists of the alimentary canal and the associated glands. 
 1.1.1 Alimentary canal/digestive tract 
 The alimentary canal of man begins with the  anterior opening, the mouth, and ends with the posterior opening, the anus. Parts of the alimentary canal between the mouth and the anus include buccal cavity, pharynx, oesophagus, stomach, small intestine and the large intestine in the given order. 
-Zoology 
 I.  Mouth and Buccal (oral) cavity 
 The mouth, bordered by the movable upper and lower lips ( labia ), leads into the buccal or oral cavity.  The palate separates the ventral buccal cavity from the dorsal nasal chamber and facilitates chewing and breathing simultaneously. The anterior bony hard palate is lined by palatine rugae. The posterior soft palate that hangs down into the pharynx is called uvula. The jawbones bear  four kinds of teeth and a tongue occurs at the base of the buccal cavity. 
 i. Teeth 
@@ -105,7 +104,6 @@ Activities of the gastrointestinal tract are under neural and hormonal control f
 Gastrin is secreted from the epithelium of the stomach; it stimulates the secretions of hydrochloric acid and pepsinogen. 
 Enterogastrone or gastric inhibitory peptide (GIP) is secreted by the epithelium of duodenum due to the effect of dietary lipids. It inhibits gastric acidity and gastro-intestinal motility. 
 Secretin is secreted by the epithelium of duodenum and acts on the pancreatic acini; stimulates  the secretions of water and bicarbonates of the  pancreatic juice. 
-Human Anatomy and Physiology - I 
 Cholecystokinin (CCK)/Pancreozymin: It is secreted from the epithelium of the duodenum; acts on pancreas and gall bladder and stimulate the secretion of pancreatic enzymes and release of bile, respectively. 
 Enterocrinin secreted from the duodenal mucosa stimulates the secretions of succus entericus, villikinin secreted from intestinal villi, stimulates the movement of villi to increase absorption. 
 Calorific values of carbohydrates, proteins and fats 
@@ -117,7 +115,6 @@ The oxidation of one gram of proteins and carbohydrates yield almost the same am
 4. Jaundice: The liver is affected (hepatitis); anorexia (lack of appetite) is a common symptom. Skin and the white part of the eye balls  turn yellow due to deposition of bile pigments. 
 5. Diarrhoea: The abnormal frequency of bowl movement and increased liquidity of the faecal discharge is known as diarrhoea. It reduces the absorption of food and results in loss of water (dehydration). Constipation: In constipation, the faeces are retained within the rectum as it  is hard due to low content of water and the movement of the bowel occurs irregularly. 
 6. Marasmus: This disease is caused due to deficiency of proteins and calories.  It is observed in children born without sufficient interval. The child appears weak and surrers from swelling of joints, deficiency in development of muscles, dry skin, diarrhoea etc. 
-Zoology 
 Adenoids: A mass of lymphoid tissue present in the nasopharynx, also called pharyngeal tonsil. Ameloblasts: The epidermal cell that secrete the enamel of teeth. Brunner’s glands: Intestinal glands of the sub mucosa of the duodenum; secrete mucus. Castle’s intrinsic factor: It is secreted from the oxyntic cells of the stomach, and promotes the absorption of the vitamin B12 in the intestine. Chyme: Partly digested acidic food formed in the stomach. Crypts of Lieberkuhn: They are the ‘tubular invaginations of the intestinal epithelium around the villi/   Intestinal glands of the mucosa of the  ileum; secrete intestinal juice. 
 - Cystic duct: Duct that arises from the gall bladder and joins the hepatic duct to form the common bile duct in liver. 
 - Deamination: Removal of ammono group from amino acids during their metabolism (the amino group is used in the formation of ammonia) in liver. 
@@ -177,14 +174,12 @@ Digestion and Absorption
 9. Presuming the microbial content of the blood sample from the HPV as 10,000 per cubic millimeter, what in your opinion will be the microbial content of blood sample taken from the hepatic vein? Will it be more/ less/ same ?  Give reason(s). 
 <u>n</u> 
 10. The food we ingest contains potentially harmful toxins, which can cause serious consequences. One organ acts as a ‘Guardian Angel’ acting as a barrier and protecting other body parts from the  ill effects to a lesser or greater extent. What is the name of the  organ? 
-Human Anatomy and Physiology - I 
 <u>U</u> NIT I B 
 Breathing and Exchange of Gases 
 <u>1.2 Breathing and</u> Exchange of Gases 
 Respiratory system - 
 Your ‘Calorie Burner’ and ‘Energy Provider’ 
 Respiration is a catabolic process of release of energy mostly by the oxidation of foods. Oxygen obtained from the surrouding medium is utilised in the production of ‘metabolic water’, an end product of the ‘burning of calories’. The direction of flow of blood in the gills and the direction of flow of water are in ‘counter current flow’ mechanism, for efficient ‘oxygenation’ of blood. Birds have developed a technique of continuous exchange of gases even during expiration, with the help of a unique feature - the presence of ‘air sacs’ and ‘parabronchi’. Insects and some other arthropods supply oxygen directly to each cell via the tracheae and tracheoles. Thus every cell can virtually receive oxygen directly, making the ‘tracheate animals’ very active. At a height of about 6000 m the pO2 becomes almost half of what it is at the mean sea level, hence the ‘mountain sickness’ in people ascending mountains. The ‘ribcage’ and the ‘diaphragm’ help mammals breathe in air more effectively. Homeostasis of oxygen and carbon dioxide are under the control of the respiratory centre. Inhalation and exhalation are under the control of the medulla oblongata. There is a pneumotaxic centre in the pons and it controls the rate and depth of breathing. Man cannot hold his breath for long. He is forced to breathe in. Elephant seal, a mammal can remain under water for up to two hours. The muscles of the elephant seal and some other aquatic mammals, contains myoglobin (muscle haemoglobin) which has more affinity for oxygen. 
-Zoology 
 All living cells need constant supply of energy in order to carryout various metabolic activities. Energy is produced by the oxidation of micromolecules of digested food such as glucose, amino acids, and fatty acids. These are transported to the body cells through the circulatory system. Oxygen is utilized by organisms to breakdown stored food materials  such as   glucose, fatty acids etc.  Carbon dioxide  which is harmful (dissolves in water to form carbonic acid, which lowers the pH of blood threatening homeostasis) is also released during the above catabolic reactions. It is therefore, evident that O2 has to be continuously provided to the body  cells and CO2 produced by the cells has to be sent out. Respiration is a vital feature of life. The process of exchange of O2 from the medium (air or water) with CO2 produced by the cells at the same time is called ‘breathing’ (Ref: NCERT Vol I, Page 268). However, the process of respiration, during which air is inhaled into the lungs and exhaled out of the lungs  is called ‘breathing’. Many authors described the process of gaseous exchange as ‘external respiration’ or ‘ventilation’ because it emphasizes that the entry of oxygen and the exit of CO2 happen at places other than the energy releasing sites. More accurately the “processes leading to, and including the chemical breakdown of food materials to provide energy for life is called respiration.” As the chemical breakdown of the nutrients occurs inside the living cells of every organism, it is called internal respiration or cellular respiration . 
 Anaerobic respiration is the incomplete break down of organic molecules with less yield of energy; it takes place in the absence of oxygen in organisms such as yeast and bacteria, muscles(under certain conditions)  etc. 
 C6H12O6  2CO2+ 2C2H5OH(ethanol)+2ATP 
@@ -215,7 +210,6 @@ VII. Lungs
 Lungs occupy the greater part of the thoracic cavity. Lungs are covered by a double layered pleura, with pleural fluid between them. It reduces friction on the lung surface. The outer pleural membrane is in close contact with the thoracic lining whereas the inner pleural membrane is in contact with lung’s surface. The part starting with external nostrils up to the terminal bronchioles constitute the conducting part, whereas the alveoli and their ducts form the respiratory or exchange part of the respiratory system. The conducting part transports the atmospheric air to the alveoli, clears it from foreign particles, humidifies and also brings the inhaled  air to the body temperature. Exchange part is the site of actual diffusion of oxygen and carbon dioxide between blood and atmospheric air. 
 The lungs are situated in the thoracic chamber which is anatomically an air-tight chamber. It is formed dorsally by the vertebral column, ventrally the sternum, laterally by ribs and on the lower side by the dome-shaped diaphragm. The anatomical setup of lungs in the thorax is such that any change in the volume of thoracic cavity will be reflected in the lung cavity (pulmonary volume). Such an arrangement is essential for breathing, as the pulmonary volume cannot be directly altered. 
 Figure 1.11 Diagrammatic view of human respiratory system (Sectional view of the left lung is also shown) 
-Zoology 
 Respiration in humans involves the following steps: 
 - i. Breathing or pulmonary ventilation by which atmospheric air with 21% of O2 is drawn in and alveolar air rich in CO2 is sent out. 
 - ii. Diffusion of gases across the alveolar membrane 
@@ -240,7 +234,6 @@ Partial pressures (in mm Hg) of oxygen and carbon dioxide at different parts inv
 |Gas|Air||(Deoxyge-nated)|(Oxygenated)||
 |O2|159|104|40|95|40|
 |CO2|0.3|40|45|40|45|
-Zoology 
 As the solubility of CO2 is 20-25 times higher than that of O2 the amount of CO 2 that can diffuse through the diffusion membrane per unit difference in partial pressure is much higher compared to that of O2. The diffusion membrane is made up of three major layers namely, the thin squamous epithelium of the alveolar wall , the endothelium of the alveolar capillaries and the basement material in between them . As  it is a very thin border, it is   favourable for diffusion of gases. 
 Figure 1.14 Diagrammatic represetnation of exchange of gases at the alveolus and the body tissues with blood and transport of O2 and CO2 
 I.  Pulmonary gas exchange (External respiration) 
@@ -270,21 +263,18 @@ This binding of CO2 is related to the partial pressure of CO2.  pO2 is a major f
 NOTE: Haemoglobin is an amphoteric compound (reacting chemically as either an acid or a base). It  has the peculiar character of taking more oxygen in oxygen rich areas and release CO2 and accepting more CO2 in areas where the CO2 is more and release oxygen. 
 (iii) As Bicarbonates: About 70 per cent of CO 2 is transported as bicarbonate . RBCs contain a very high concentration of the enzyme, carbonic anhydrase and a minute quantity of the same is present in the plasma too. This enzyme facilitates the following reaction in both the directions. 
 At the tissue level, where partial pressure of CO2 is high due to catabolism, CO2 diffuses into the blood (RBC and Plasma) and forms carbonic acid which dissociates into HCO3– and H+. At the alveolar site where pCO2 is low, the reaction proceeds in the opposite direction leading to the formation of  CO2 and water. Thus CO2 is mostly trapped as bicarbonate at the tissues and transported to the alveoli where it is released out as CO2. Every 100 mL of deoxygenated blood delivers approximately 4mL of CO2 to the alveolar air. 
-Zoology 
 Chloride shift: Due to the permeability of plasma membrane of RBC to anions, HCO3– ions (formed due to dissociation of H2CO3) diffuse into the blood plasma from the RBC at the tissues. The H<sup>+</sup> ions are ‘buffered’ (to curtail acidity) by haemoglobin which turns into HHb (acid haemoglobin). Haemoglobin can act as a buffer at physiological pH (7.4), because of its high content of ‘ histidine’. 
 H<sup>+</sup> + HCO3 + Hb.4O2  HHb +HCO3+ 4O2 
 As a result, the molecule loses its affinity for oxygen and so O 2 is released. It diffuses into the plasma and from there into the tissues (in the pulmonary capillaries of the lung, where the partial pressures and pH are reversed, all of these reactions run in the reverse way). To maintain electrolyte balance, Cl<sup>–</sup> ions diffuse from plasma into RBC when the bicorbonate ions pass out of the RBC into plasma. This exchange of chloride and bicarbonate ions between RBC and plasma at the tissues is called chloride shift or Hamburger’s phenomenon/ Hamburger’s shift. Reverse chloride shift occurs when blood reaches the lungs. 
 - 1.2.6 Regulation of respiratory movements 
 Human beings have a significant ability to maintain and moderate the respiratory rhythm to suit the demands of the body tissues. This is done by the neural system. 
 1. A special centre present in the medulla region of brain, called ‘Respiratory rhythm centre’ is primarily responsible for this regulation/respiratory rhythm. 
-Human Anatomy and Physiology - I 
 2.  Another centre present in the pons of the brain stem  called ‘ Pneumotaxic Centre ’ can moderate the functions of the ‘respiratory rhythm centre’. Neural signal from this centre can reduce the duration of inspiration and there by alter the respiratory rate. 3. A chemo-sensitive area is situated adjacent to the respiratory rhythm centre which is highly sensitive to CO 2 and hydrogen ions. Increase in these substances can activate this centre, which inturn can send signals to the respiratory rhythm centre to make necessary adjustments in the respiratory process by which these substances 
 can be eliminated. 
 4. Receptors associated with aortic arch and carotid artery also recognize changes in CO2 and H<sup>+</sup> concentration and send necessary signals to the respiratory rhythm centre and pneumo tactic centre for necessary actions (increase in the rate and depth of breathing when their concentration is high). The role of oxygen in the regulation of the respiratory rhythm is quite insignificant. 
 1.2.7 Respiratory volumes and Capacities 
 Tidal Volume (T.V.): Volume of air inspired or expired during normal inspiration or  expiration. It is approximately 500 ml. i.e., a healthy man can inhale or exhale approximately 6000 to 8000 ml of air, per minute. 
 Inspiratory Reserve volume (IRV): The additional volume of air that can be inhaled during forced breathing, in addition to the ‘tidal volume’. This is about 2500 ml to 3000 ml. 
-Zoology 
 Expiratory reserve Volume (ERV): The additional volume of air that can be exhaled during forced expiration, in addition to the ‘tidal volume’. This is about 1000ml to 1100ml. 
 Residual volume (R.V): The volume of air remaining in the lungs even after forcible expiration. This is about 1100 ml to 1200 ml. 
 By adding up a few ‘respiratory volumes’ described above, one can derive various pulmonary capacities, which are useful in clinical diagnosis of pulmonary disorders. 
@@ -303,7 +293,6 @@ Total Lung Capacity (TLC): The total volume of air accommodated in the lungs at 
 - ii. Silicosis: It occurs because of long term exposure to ‘silica dust’ in the people working in mining industries, quarries etc. 
 - iii. Siderosis: It occurs due to deposition of inhaled iron particles in tissues. It can cause different types of siderosis such as pneumoconiosis, hyperferremia and hemosiderosis (which causes recurrent alveolar hemorrhage). 
 - iv. Black-lung disease: It is a lung disease that develops from inhalation of coal dust. It is common in  long time coal mine workers. 
-Zoology 
 GLOSSARY 
 Alveoli: Thin walled, irregular, highly vascularized bag like structures that form the sites of exchange of gases in the lungs. Bohr Effect: Effect of CO2  and H<sup>+</sup> on the oxygen-affinity of haemoglobin. 
 - dissociation into H<sup>+</sup> and HCO3 
