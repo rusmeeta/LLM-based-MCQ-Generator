@@ -34,6 +34,3 @@ high-quality, exam-ready multiple-choice questions using Google's Gemini API.
 | Chunking | LangChain `MarkdownTextSplitter` |
 | Environment | Jupyter Notebook / Python 3.10+ |
 
-  "explanation": "Herbivores eat cellulose-rich food that is hard to
-    digest and requires a longer absorptive surface."
-}
