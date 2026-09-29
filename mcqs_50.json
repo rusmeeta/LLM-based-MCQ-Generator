@@ -1,0 +1,1352 @@
+[
+  {
+    "question": "Which region of the human alimentary canal serves as the major site of digestion?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "The small intestine",
+        "remarks": "The small intestine is explicitly identified as the major site of digestion in the human gut. It handles the primary breakdown and processing of complex food components before absorption.",
+        "is_correct": true
+      },
+      {
+        "option": "The large intestine",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The stomach wall",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The associated salivary glands",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the modern medical treatment used for peptic ulcers?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Antibiotic treatment",
+        "remarks": "Modern medical practice utilizes antibiotics to treat peptic ulcers because scientists discovered they are caused by the bacterium Helicobacter pylori. Targeting the underlying bacterial infection replaces older approaches focused solely on managing acidity.",
+        "is_correct": true
+      },
+      {
+        "option": "Vitamin supplementation",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Acid reduction therapy",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Intestinal flora enhancement",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the primary function of food for living organisms?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "It provides energy and organic material for growth and tissue repair.",
+        "remarks": "Food serves as a fundamental requirement by supplying essential energy and organic materials needed by living organisms for growth and the repair of tissues. This comprehensive role sustains basic biological functions and structural maintenance.",
+        "is_correct": true
+      },
+      {
+        "option": "It prevents dehydration and assists directly in cellular metabolic processes.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It provides complex bio-macromolecules that are directly utilized by cells without conversion.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It breaks down simple substances into mechanical structures within the digestive tract.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What anatomical structure marks the termination of the human alimentary canal?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "The anus",
+        "remarks": "The human alimentary canal is structured as a continuous tract that starts at the anterior opening and finishes at a specific posterior point. The posterior opening that concludes this digestive pathway is designated as the anus.",
+        "is_correct": true
+      },
+      {
+        "option": "The mouth",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The pharynx",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The large intestine",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which specific tooth type is dagger-like and aids in tearing food?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Incisors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Canines",
+        "remarks": "Canines are described as dagger-like teeth that perform the function of tearing food. Their specific shape distinguishes them from chisel-shaped incisors and cheek-positioned grinding teeth.",
+        "is_correct": true
+      },
+      {
+        "option": "Premolars",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Molars",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which structure covers the dentine of the crown and represents the hardest substance in the human body?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Enamel",
+        "remarks": "The dentine of the crown is covered by enamel, which is identified as the hardest substance in the body. Enamel is secreted by ameloblasts of ectodermal origin.",
+        "is_correct": true
+      },
+      {
+        "option": "Periodontal membrane",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Cementum",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Gingiva",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "How is the human tongue attached to the floor of the oral cavity?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "By a fold of tissue called frenulum",
+        "remarks": "The tongue is a freely movable and muscular sense organ anchored securely to the floor of the mouth. This specific attachment is accomplished through a specialized fold of tissue known as the frenulum.",
+        "is_correct": true
+      },
+      {
+        "option": "By a cartilaginous flap called the epiglottis",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "By a muscular sphincter located at the base",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "By lymphoid tissues known as lingual tonsils",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which anatomical structure guards the opening between the stomach and the small intestine?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "The pyloric sphincter",
+        "remarks": "The pyloric sphincter guards the pyloric aperture, which is the opening through which the posterior pyloric portion of the stomach connects to the first part of the small intestine. This structure regulates the passage of contents leaving the stomach.",
+        "is_correct": true
+      },
+      {
+        "option": "The ilio-caecal valve",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The internal anal sphincter",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The external anal sphincter",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which layer forms the outermost covering of the human alimentary canal from the oesophagus to the rectum?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Serosa",
+        "remarks": "Serosa is described as the outermost layer of the alimentary canal wall, composed of a thin mesothelium with some connective tissue. Because the alimentary canal spans from the oesophagus to the rectum, this outermost tunic serves as its external protective boundary.",
+        "is_correct": true
+      },
+      {
+        "option": "Muscularis externa",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Sub mucosa",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Mucosa",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which pair of salivary glands is located below the pinna on the inner surface of the cheeks?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Parotid glands",
+        "remarks": "The parotid glands are one of the three pairs of salivary glands found in humans and are located below the pinna on the inner surface of the cheeks. This specific anatomical positioning distinguishes them from the submandibular and sublingual glands.",
+        "is_correct": true
+      },
+      {
+        "option": "Sub maxillary glands",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Sublingual glands",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Cardiac glands",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the primary function of lysozyme found in human saliva?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "It kills bacteria.",
+        "remarks": "Saliva contains several components including lysozyme, which specifically functions to kill bacteria. This antibacterial property helps protect the oral cavity and digestive tract.",
+        "is_correct": true
+      },
+      {
+        "option": "It digests starch into sugars.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It secretes hydrochloric acid.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It protects the stomach wall.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which structures are considered the structural and functional units of the liver?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Hexagonal hepatic lobules",
+        "remarks": "Hepatic lobules are identified as the structural and functional units of the liver. Each of these hexagonal units contains hepatic cells arranged in cords around a central vein and is surrounded by a thin connective tissue sheath known as Glisson's capsule.",
+        "is_correct": true
+      },
+      {
+        "option": "The right and left anatomical lobes",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The Glisson’s capsules surrounding the hepatic cords",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The ampullae of Vater guarded by the sphincter of Oddi",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What structural combination forms the hepatopancreatic ampulla?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "The pancreatic duct and the common bile duct unite",
+        "remarks": "The pancreatic duct and the common bile duct unite to form the ampulla of Vater, also known as the hepatopancreatic ampulla. This anatomical union brings together secretions from both the pancreas and the liver before they enter the digestive tract.",
+        "is_correct": true
+      },
+      {
+        "option": "The hepatic portal vein and the common bile duct unite",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The pancreatic duct and the hepatic portal vein unite",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The cystic duct and the pancreatic duct unite",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following substances is synthesized by the liver?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Heparin",
+        "remarks": "The liver synthesizes various plasma proteins and specific specialized compounds like the anticoagulant heparin. This distinguishes its synthetic output from purely exocrine secretions produced elsewhere in the digestive system.",
+        "is_correct": true
+      },
+      {
+        "option": "Trypsinogen",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Insulin",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Glucagon",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What are the two major functions performed by the buccal cavity?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Mastication of food and facilitation of swallowing",
+        "remarks": "The buccal cavity performs the primary roles of chewing food and helping it pass down. These combined mechanical and physical processes prepare the food properly before it enters the rest of the digestive tract.",
+        "is_correct": true
+      },
+      {
+        "option": "Absorption of disaccharides and secretion of lysozyme",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Hydrolysis of proteins and antibacterial defense",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Secretion of mucus and absorption of electrolytes",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Where does the chemical process of digestion officially begin in the human body?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "In the oral cavity through the action of salivary amylase",
+        "remarks": "Chemical digestion starts in the mouth through the hydrolytic action of the enzyme salivary amylase. This enzyme immediately begins breaking down starches into simpler sugars before the food reaches the stomach.",
+        "is_correct": true
+      },
+      {
+        "option": "In the stomach through the mechanical action of mastication",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "In the buccal cavity exclusively through the action of lysozyme",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "In the esophagus during the process of deglutition",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which enzyme is responsible for converting inactive trypsinogen into active trypsin?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Enterokinase",
+        "remarks": "Trypsinogen is activated into active trypsin by the enzyme enterokinase. Enterokinase is specifically secreted by the intestinal mucosa to initiate this activation cascade.",
+        "is_correct": true
+      },
+      {
+        "option": "Chymotrypsinogen",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Carboxypeptidase",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Steapsin",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which region of the digestive system serves as the principal organ for the absorption of nutrients?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Mouth",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Stomach",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Small intestine",
+        "remarks": "The small intestine acts as the primary site where nutrient absorption takes place and where digestion is completed. Final digestion products such as glucose, fructose, galactose, and amino acids are absorbed here into the blood through the mucosa, making it the principal organ for this function.",
+        "is_correct": true
+      },
+      {
+        "option": "Large intestine",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the physiological process called when absorbed food materials reach the tissues and become integral components of living protoplasm?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Assimilation",
+        "remarks": "Absorbed substances ultimately reach body tissues where they are incorporated into living protoplasm. This utilization of food materials for energy production, growth, and tissue repair is formally defined as the process of assimilation.",
+        "is_correct": true
+      },
+      {
+        "option": "Defaecation",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Digestion",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Secretion",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What part of the central nervous system controls the reflex action of vomiting?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Medulla oblongata",
+        "remarks": "Vomiting involves the throwing out of stomach contents through the mouth as a reflex action. This reflex is specifically controlled by the vomiting centre located in the medulla oblongata.",
+        "is_correct": true
+      },
+      {
+        "option": "Cerebellum",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Hypothalamus",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Spinal cord",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which type of respiration yields more energy due to the complete breakdown of organic molecules?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Aerobic respiration",
+        "remarks": "Aerobic respiration requires oxygen and yields more energy through the complete breakdown of organic molecules. This process utilizes oxygen to produce carbon dioxide, water, and thirty-six ATP molecules.",
+        "is_correct": true
+      },
+      {
+        "option": "Ethanol fermentation",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Lactic acid fermentation",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Anaerobic respiration",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What prevents the trachea from collapsing and keeps it continuously open?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "C-shaped rings of hyaline cartilage that are incomplete dorsally",
+        "remarks": "The wall of the trachea is supported by C-shaped rings of hyaline cartilage that remain incomplete dorsally. These specific cartilaginous rings keep the trachea always open and prevent its collapse.",
+        "is_correct": true
+      },
+      {
+        "option": "A lining of pseudostratified ciliated epithelium on the internal surface",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Yellow elastic fibres connecting the thyroid and arytenoid cartilages",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Nine cartilages forming a box-like structure in the upper portion",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the average breathing rate of a healthy human per minute?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "12-16 times",
+        "remarks": "On an average, a healthy human breathes 12-16 times per minute. This breathing frequency is part of normal pulmonary function.",
+        "is_correct": true
+      },
+      {
+        "option": "20-25 times",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "8-10 times",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "30-40 times",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What shape is produced when the percentage saturation of haemoglobin with oxygen is plotted against the partial pressure of oxygen?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "A sigmoid curve",
+        "remarks": "The source states that plotting percentage saturation against pO2 yields a sigmoid curve known as the oxyhaemoglobin dissociation curve. This geometric shape directly illustrates the cooperative binding dynamics between oxygen and haemoglobin molecules.",
+        "is_correct": true
+      },
+      {
+        "option": "A linear curve",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "An exponential curve",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "A hyperbolic curve",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which brain region houses the respiratory rhythm centre responsible for regulating respiratory rhythm?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Medulla region",
+        "remarks": "A specialized centre located in the medulla region of the brain is primarily responsible for regulating respiratory rhythm. This respiratory rhythm centre controls the fundamental pattern of breathing.",
+        "is_correct": true
+      },
+      {
+        "option": "Pons region",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Carotid artery region",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Aortic arch region",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Why do herbivores typically possess a longer alimentary canal compared to carnivores?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "To provide a larger absorptive surface area needed because much of their plant diet remains undigested",
+        "remarks": "Herbivores eat plant material containing cellulose that is largely undigested, requiring a longer alimentary canal to provide a larger absorptive surface area to fully absorb what little they digest.",
+        "is_correct": true
+      },
+      {
+        "option": "To allow more time for the rapid absorption of animal proteins and fats",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "To compensate for the lack of nerve plexuses controlling muscle layer movements",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "To ensure that brush border enzymes can hydrolyse all disaccharides into monosaccharides",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the consequence of a deficient protein intake despite a normal caloric intake in humans?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Development of the nutritional deficiency disorder known as Kwashiorkor",
+        "remarks": "If protein intake is deficient while caloric intake remains normal, a person suffers specifically from Kwashiorkor. This distinguishes it from general protein-calorie malnutrition which results in Marasmus.",
+        "is_correct": true
+      },
+      {
+        "option": "Onset of severe Marasmus due to overall energy deficiency",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Formation of peptic ulcers in the wall of the stomach due to hyper acidity",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Inability of the brush border enzymes to hydrolyse disaccharides",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Why are digestive enzymes like pepsinogen, trypsinogen, and chymotrypsinogen secreted in inactive forms?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "To prevent the cells that secrete these enzymes from undergoing autodigestion",
+        "remarks": "Enzymes are produced in inactive forms such as pepsinogen and trypsinogen so that the secreting cells escape autodigestion. Only when activated can these enzymes act on cellular structures or food components.",
+        "is_correct": true
+      },
+      {
+        "option": "To ensure they can be immediately reabsorbed in the large intestine along with water",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "To allow the intestinal flora to convert them into essential vitamins",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "To facilitate the breakdown of complex food items without requiring hydrolysis",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the function of the mucus secreted by goblet cells located in the mucosal epithelium?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "It protects the alimentary canal wall from enzyme action and lubricates the passage of food",
+        "remarks": "Mucosal epithelium contains goblet cells that secrete mucus to fulfill dual protective and lubricating roles. The secreted mucus shields the gut wall from damaging enzymatic activity while simultaneously easing the movement of food.",
+        "is_correct": true
+      },
+      {
+        "option": "It produces brush border enzymes to break down disaccharides",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It forms irregular folds called gastric rugae to increase absorption",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It supplies nerves, blood vessels, and lymph vessels to the connective tissue",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following are classified as digestive glands present directly within the wall of the alimentary canal?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Gastric glands, Brunner's glands, and crypts of Lieberkuhn",
+        "remarks": "Gastric glands, Brunner's glands, and crypts of Lieberkuhn are specifically identified as digestive glands located in the wall of the alimentary canal. They contrast with extra alimentary canal glands like the salivary glands, liver, and pancreas.",
+        "is_correct": true
+      },
+      {
+        "option": "Salivary glands, liver, and pancreas",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Liver, gastric glands, and Brunner's glands",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Salivary glands, crypts of Lieberkuhn, and pancreas",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What cells within the fundic glands secrete proenzymes such as pepsinogen and prorennin?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Peptic or chief cells",
+        "remarks": "The fundic or oxyntic glands are composed of multiple cell types, including peptic or chief cells. These particular cells are responsible for secreting large quantities of proenzymes like pepsinogen and prorennin.",
+        "is_correct": true
+      },
+      {
+        "option": "Mucous neck cells",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Oxyntic or parietal cells",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Serous cells",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which components are present in bile juice?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Bile salts and bile pigments without any digestive enzymes",
+        "remarks": "Bile juice is secreted by the liver as a yellowish-green fluid that lacks enzymes. Instead, it contains specific bile salts like sodium and potassium glycocholates and taurocholates, alongside bile pigments such as bilirubin and biliverdin.",
+        "is_correct": true
+      },
+      {
+        "option": "Digestive enzymes and various amino acids",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Bile pigments and active proteolytic enzymes",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Cholesterol, triglycerides, and active lipases",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "How does the liver process toxic substances that enter the gut along with food?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Toxins reach the liver via the hepatic portal vein where the liver acts as a check post to detoxify them",
+        "remarks": "The liver functions as the chief organ of detoxification and acts as the first check post barring toxin entry into general circulation. Toxins entering through food and water travel directly to the liver via the hepatic portal vein.",
+        "is_correct": true
+      },
+      {
+        "option": "Toxins are converted into bile salts and excreted directly through the pancreatic duct",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Toxins are stored permanently in the hepatic smooth endoplasmic reticulum without modification",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Toxins bypass the liver through the general circulation and undergo immediate deamination",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the function and location of Kupffer cells in the liver?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "They remove unwanted substances and microbes by phagocytosis and are present in the sinusoids between hepatic cords.",
+        "remarks": "Kupffer cells, also known as hepatic macrophages, act as large phagocytic cells that actively clear unwanted substances and invading microbes. They are specifically located within the sinusoids situated between hepatic cords.",
+        "is_correct": true
+      },
+      {
+        "option": "They secrete alkaline pancreatic juice and are situated between the limbs of the 'U' shaped duodenum.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "They synthesize blood clotting factors like fibrinogen and prothrombin inside the hepatic cords.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "They function as endocrine cells within the islets of Langerhans to release regulatory hormones.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the primary function of peristalsis in the gut?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "It results in the propulsion of food through different parts of the gut and its exposure to efficient enzymatic action.",
+        "remarks": "Peristalsis involves the contraction and relaxation of smooth muscles to create successive wave-like movements. These movements propel food through the gut and ensure it is properly exposed to efficient enzymatic action.",
+        "is_correct": true
+      },
+      {
+        "option": "It exclusively converts disaccharides into monosaccharides across the intestinal wall.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It secretes pancreatic juice and intestinal juice into the lumen of the stomach.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It completely halts the passage of food to allow maximum absorption without movement.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which mechanism transports monosaccharides like glucose and galactose into the cells of the intestinal villi?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Secondary active transport coupled with sodium ions",
+        "remarks": "Monosaccharides such as glucose and galactose are transported into the cells of the villi via secondary active transport coupled with sodium ions. This specialized cellular mechanism moves these molecules against a concentration gradient by utilizing the electrochemical gradient of sodium.",
+        "is_correct": true
+      },
+      {
+        "option": "Simple diffusion directly through the mucosal membrane",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Facilitated diffusion directly from the intestinal lumen into blood",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Exocytosis via protein-coated globules called chylomicrons",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Why are chylomicrons unable to enter the blood capillaries directly?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Due to their large size",
+        "remarks": "Chylomicrons are very small protein-coated fat globules formed inside the intestinal epithelial cells. Because of their large size, they are restricted from entering the blood capillaries and instead enter the lacteals in the villi by exocytosis.",
+        "is_correct": true
+      },
+      {
+        "option": "Because they are completely insoluble in the surrounding lymph fluid",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Due to active repulsion by the endothelial walls of the blood vessels",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Because they are immediately broken down by lipoprotein lipase in the lumen",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "How does marasmus differ from kwashiorkor in terms of its underlying dietary cause?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Marasmus is caused by a deficiency of both proteins and calories, whereas kwashiorkor is caused by protein deficiency alone.",
+        "remarks": "Marasmus is caused by a deficiency of both proteins and calories, distinguishing it from kwashiorkor which is caused specifically by protein deficiency in the diet. Both result in serious nutritional wasting and physical symptoms in children.",
+        "is_correct": true
+      },
+      {
+        "option": "Marasmus is caused by an excess of dietary fats, whereas kwashiorkor is caused by a lack of carbohydrates.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Marasmus results exclusively from a lack of dietary calories, while kwashiorkor results from excessive protein consumption.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Marasmus is caused by protein deficiency alone, whereas kwashiorkor is caused by a deficiency of lipids and vitamins.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What physiological process does the term deamination describe?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "The removal of an amino group from amino acids during their metabolism in the liver",
+        "remarks": "Deamination involves stripping the amino group from amino acids during metabolic processing in the liver. The liberated amino group is subsequently utilized in the formation of ammonia.",
+        "is_correct": true
+      },
+      {
+        "option": "The conversion of surplus glucose molecules into glycogen storage deposits",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The breakdown of animal starch glycogen back into usable glucose units",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The synthesis of urea from ammonia and carbon dioxide via specific metabolic intermediates",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Why is the accumulation of carbon dioxide in the body considered a threat to physiological homeostasis?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "It dissolves in water to form carbonic acid, which lowers the pH of the blood.",
+        "remarks": "Carbon dioxide produced during catabolic reactions is harmful because it dissolves in bodily water to create carbonic acid. This resulting chemical reaction lowers blood pH, thereby directly threatening the delicate balance of homeostasis.",
+        "is_correct": true
+      },
+      {
+        "option": "It prevents oxygen molecules from binding to micromolecules in the circulatory system.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It directly inhibits cellular respiration by halting the production of ATP.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It undergoes anaerobic breakdown, which yields excess toxic ethanol inside cells.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What characterizes anaerobic respiration in terms of its chemical process and energy outcome?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "It is the incomplete breakdown of organic molecules that yields a lower amount of energy.",
+        "remarks": "Anaerobic respiration is defined by the incomplete breakdown of organic molecules which results in a smaller yield of energy. This process occurs specifically in the absence of oxygen within organisms like yeast, bacteria, and certain muscle conditions.",
+        "is_correct": true
+      },
+      {
+        "option": "It is the complete oxidation of micromolecules that maximizes ATP production and prevents waste accumulation.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It is the active exchange of environmental oxygen and carbon dioxide across the respiratory membrane.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It is the transportation of digested glucose, amino acids, and fatty acids through the circulatory system.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which condition enables inspiration to take place?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "When intra-pulmonary pressure is lower than the atmospheric pressure",
+        "remarks": "Inspiration occurs when the pressure within the lungs drops below atmospheric pressure, creating a negative pressure gradient. This pressure difference allows atmospheric air to flow into the lungs.",
+        "is_correct": true
+      },
+      {
+        "option": "When the intra-pulmonary pressure exceeds the atmospheric pressure",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "When the pulmonary volume decreases to match the atmospheric volume",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "When the internal inter-costal muscles relax completely without diaphragm movement",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "How does the solubility of carbon dioxide compare to that of oxygen during gas exchange?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "It is 20-25 times higher than that of oxygen",
+        "remarks": "The solubility of carbon dioxide is significantly greater than that of oxygen. Because carbon dioxide is 20-25 times more soluble, a much higher amount of it can diffuse through the diffusion membrane per unit difference in partial pressure.",
+        "is_correct": true
+      },
+      {
+        "option": "It is equal to the solubility of oxygen",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It is 20-25 times lower than that of oxygen",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It is half the solubility of oxygen",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What physiological effect does an increase in carbon dioxide concentration and a decrease in pH have on haemoglobin?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "It reduces the affinity of haemoglobin for oxygen",
+        "remarks": "The text defines the Bohr Effect as the reduction of haemoglobin's affinity for oxygen caused by an increase in blood carbon dioxide and a decrease in pH. This shift facilitates the release of oxygen into the surrounding tissues where metabolic activity is high.",
+        "is_correct": true
+      },
+      {
+        "option": "It increases the affinity of haemoglobin for oxygen",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It prevents the dissociation of oxygen from oxyhaemoglobin",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It shifts the oxygen dissociation curve toward the Y-axis",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the physiological purpose of the chloride shift during gas exchange at the tissues?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "To maintain electrolyte balance when bicarbonate ions pass out of the red blood cells.",
+        "remarks": "Chloride ions diffuse from the plasma into the red blood cells as bicarbonate ions pass out into the plasma. This specific exchange of ions between the red blood cells and plasma serves to maintain overall electrolyte balance.",
+        "is_correct": true
+      },
+      {
+        "option": "To ensure that excess hydrogen ions remain unbuffered within the blood plasma.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "To increase the partial pressures of oxygen within the pulmonary capillaries.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "To stimulate the respiratory rhythm centre located in the medulla region.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What sequence of events causes air to move into the lungs during inspiration?",
+    "difficulty": "HARD",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Increased thoracic volume leads to increased pulmonary volume, decreasing intra-pulmonary pressure below atmospheric pressure.",
+        "remarks": "Contraction of respiratory muscles increases thoracic and pulmonary volume, which drops the intra-pulmonary pressure to less than that of the atmosphere. This pressure gradient forces external air to move into the lungs.",
+        "is_correct": true
+      },
+      {
+        "option": "Decreased thoracic volume leads to decreased pulmonary volume, increasing intra-pulmonary pressure above atmospheric pressure.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Relaxation of the diaphragm increases pulmonary volume, raising intra-pulmonary pressure above atmospheric levels.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Contraction of internal intercostal muscles decreases pulmonary volume and forces outside air inward.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which additional factors influence the binding of oxygen with haemoglobin?",
+    "difficulty": "HARD",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Partial pressure of carbon dioxide, hydrogen ion concentration, and temperature",
+        "remarks": "Besides the partial pressure of oxygen, the interaction between oxygen and haemoglobin is affected by metabolic conditions. These include the partial pressure of carbon dioxide, local hydrogen ion concentration, and temperature.",
+        "is_correct": true
+      },
+      {
+        "option": "Plasma volume, red blood cell count, and total body weight",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Dissolved nitrogen levels, blood pressure, and cardiac output",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Alveolar surface area, breathing rate, and lung capacity",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was previously thought to be the cause of peptic ulcers in the stomach wall?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Hyper acidity",
+        "remarks": "Historically, excessive stomach acidity was believed to be the primary cause of peptic ulcers forming in the stomach wall. Medical understanding later shifted when researchers discovered that a specific bacterium is actually responsible.",
+        "is_correct": true
+      },
+      {
+        "option": "Helicobacter pylori infection",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Deficiencies in intestinal flora",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Antibiotic treatments",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Why must bio-macromolecules like carbohydrates, proteins, and fats undergo digestion?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Because they cannot be absorbed and utilized by the body in their original complex form.",
+        "remarks": "Bio-macromolecules such as carbohydrates, proteins, and fats are structurally too complex to pass directly into cells in their native state. Therefore, breaking them down into simple absorbable forms through digestion is necessary for proper cellular utilization.",
+        "is_correct": true
+      },
+      {
+        "option": "Because they need to be converted into water and mineral ions before entering the bloodstream.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Because the human digestive system can only secrete associated glands when complex molecules are absent.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Because original food forms prevent the mouth and buccal cavity from forming palatine rugae.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct sequential order of the parts of the alimentary canal between the mouth and the anus?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Buccal cavity, pharynx, oesophagus, stomach, small intestine, large intestine",
+        "remarks": "The alimentary canal follows a precise linear anatomical sequence starting from the anterior mouth and ending at the posterior anus. Food and material progress systematically through the buccal cavity, pharynx, oesophagus, stomach, small intestine, and large intestine in that exact order.",
+        "is_correct": true
+      },
+      {
+        "option": "Pharynx, buccal cavity, oesophagus, stomach, large intestine, small intestine",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Buccal cavity, oesophagus, pharynx, stomach, small intestine, large intestine",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Pharynx, oesophagus, buccal cavity, stomach, large intestine, small intestine",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  }
+]
