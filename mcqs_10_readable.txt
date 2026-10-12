@@ -1,0 +1,69 @@
+Q1. Which specific brain region controls the rate and depth of breathing?
+A. The pneumotaxic centre located in the pons
+   Remarks: The pneumotaxic centre is situated within the pons region of the brain. It specifically functions to regulate the rate and depth of breathing, whereas inhalation and exhalation generally fall under the control of the medulla oblongata.
+B. The respiratory centre located within the ribcage
+C. The medulla oblongata controlling inhalation and exhalation
+D. The parabronchi regulating continuous gas exchange
+
+Q2. What is the approximate volume of air inspired or expired during normal breathing in a healthy individual?
+A. 500 ml
+   Remarks: Tidal volume represents the volume of air inspired or expired during normal breathing and is approximately 500 ml. This allows a healthy person to exchange about 6000 to 8000 ml of air per minute.
+B. 1100 ml
+C. 2500 ml
+D. 6000 ml
+
+Q3. What shape is produced when the percentage saturation of haemoglobin with oxygen is plotted against the partial pressure of oxygen?
+A. A sigmoid curve
+   Remarks: The source states that plotting percentage saturation against pO2 yields a sigmoid curve known as the oxyhaemoglobin dissociation curve. This geometric shape directly illustrates the cooperative binding dynamics between oxygen and haemoglobin molecules.
+B. A linear curve
+C. An exponential curve
+D. A hyperbolic curve
+
+Q4. What is the physiological process called when absorbed food materials reach the tissues and become integral components of living protoplasm?
+A. Assimilation
+   Remarks: Absorbed substances ultimately reach body tissues where they are incorporated into living protoplasm. This utilization of food materials for energy production, growth, and tissue repair is formally defined as the process of assimilation.
+B. Defaecation
+C. Digestion
+D. Secretion
+
+Q5. What is the primary function of gastrin in the digestive system?
+A. It stimulates the secretion of hydrochloric acid and pepsinogen in the stomach
+   Remarks: Gastrin is secreted from the epithelium of the stomach. By acting locally, it stimulates the gastric glands to release hydrochloric acid and pepsinogen.
+B. It inhibits gastric acidity and reduces gastro-intestinal motility
+C. It stimulates the release of bile from the gall bladder
+D. It stimulates the movement of intestinal villi to increase absorption
+
+Q6. What is the primary function of lysozyme found in human saliva?
+A. It kills bacteria.
+   Remarks: Saliva contains several components including lysozyme, which specifically functions to kill bacteria. This antibacterial property helps protect the oral cavity and digestive tract.
+B. It digests starch into sugars.
+C. It secretes hydrochloric acid.
+D. It protects the stomach wall.
+
+Q7. Which structural modification is formed by the mucosa of the stomach?
+A. Gastric rugae
+   Remarks: The mucosa of the stomach forms irregular folds known as gastric rugae, with numerous microscopic gastric glands situated in between them. This mucosal architecture is distinct from the villi found in the small intestine.
+B. Villi
+C. Crypts of Lieberkuhn
+D. Microvilli
+
+Q8. What specific functions are carried out by the conducting part of the respiratory system?
+A. It transports atmospheric air, clears foreign particles, humidifies air, and brings it to body temperature
+   Remarks: The conducting part serves multiple conditioning roles for inhaled air before gas exchange occurs. It moves the air inward, filters out foreign particles, adds moisture, and adjusts the temperature to match the body.
+B. It provides the actual site for the diffusion of oxygen and carbon dioxide between blood and air
+C. It reduces mechanical friction on the lung surface using pleural fluid
+D. It terminates in alveolar ducts and alveolar sacs for gas storage
+
+Q9. Which region of the human alimentary canal serves as the major site of digestion?
+A. The small intestine
+   Remarks: The small intestine is explicitly identified as the major site of digestion in the human gut. It handles the primary breakdown and processing of complex food components before absorption.
+B. The large intestine
+C. The stomach wall
+D. The associated salivary glands
+
+Q10. Which region of the digestive system serves as the principal organ for the absorption of nutrients?
+A. Mouth
+B. Stomach
+C. Small intestine
+   Remarks: The small intestine acts as the primary site where nutrient absorption takes place and where digestion is completed. Final digestion products such as glucose, fructose, galactose, and amino acids are absorbed here into the blood through the mucosa, making it the principal organ for this function.
+D. Large intestine

@@ -1,5 +1,32 @@
 [
   {
+    "question": "What is the primary function of carbohydrates in human food?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Acting as the chief energy providers for the body",
+        "remarks": "Carbohydrates are explicitly identified as the chief energy providers in human food. They supply the primary fuel needed for bodily functions compared to other nutrients which serve different biological roles.",
+        "is_correct": true
+      },
+      {
+        "option": "Serving as the body's structural builders and forming enzymes",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Providing energy reserves that are mostly stored in adipose tissue",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Producing necessary vitamins through the action of intestinal flora",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
     "question": "Which region of the human alimentary canal serves as the major site of digestion?",
     "difficulty": "EASY",
     "status": "PENDING",
@@ -27,60 +54,6 @@
     ]
   },
   {
-    "question": "What is the modern medical treatment used for peptic ulcers?",
-    "difficulty": "EASY",
-    "status": "PENDING",
-    "options": [
-      {
-        "option": "Antibiotic treatment",
-        "remarks": "Modern medical practice utilizes antibiotics to treat peptic ulcers because scientists discovered they are caused by the bacterium Helicobacter pylori. Targeting the underlying bacterial infection replaces older approaches focused solely on managing acidity.",
-        "is_correct": true
-      },
-      {
-        "option": "Vitamin supplementation",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "Acid reduction therapy",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "Intestinal flora enhancement",
-        "remarks": "",
-        "is_correct": false
-      }
-    ]
-  },
-  {
-    "question": "What is the primary function of food for living organisms?",
-    "difficulty": "EASY",
-    "status": "PENDING",
-    "options": [
-      {
-        "option": "It provides energy and organic material for growth and tissue repair.",
-        "remarks": "Food serves as a fundamental requirement by supplying essential energy and organic materials needed by living organisms for growth and the repair of tissues. This comprehensive role sustains basic biological functions and structural maintenance.",
-        "is_correct": true
-      },
-      {
-        "option": "It prevents dehydration and assists directly in cellular metabolic processes.",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "It provides complex bio-macromolecules that are directly utilized by cells without conversion.",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "It breaks down simple substances into mechanical structures within the digestive tract.",
-        "remarks": "",
-        "is_correct": false
-      }
-    ]
-  },
-  {
     "question": "What anatomical structure marks the termination of the human alimentary canal?",
     "difficulty": "EASY",
     "status": "PENDING",
@@ -102,6 +75,33 @@
       },
       {
         "option": "The large intestine",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "How many different types of teeth are present in an adult human with a heterodont dentition?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Two",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Three",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Four",
+        "remarks": "An adult human possesses 32 permanent teeth categorized into four different types namely incisors, canines, premolars, and molars. Having multiple distinct morphological types of teeth defines a heterodont dentition.",
+        "is_correct": true
+      },
+      {
+        "option": "Five",
         "remarks": "",
         "is_correct": false
       }
@@ -156,33 +156,6 @@
       },
       {
         "option": "Gingiva",
-        "remarks": "",
-        "is_correct": false
-      }
-    ]
-  },
-  {
-    "question": "How is the human tongue attached to the floor of the oral cavity?",
-    "difficulty": "EASY",
-    "status": "PENDING",
-    "options": [
-      {
-        "option": "By a fold of tissue called frenulum",
-        "remarks": "The tongue is a freely movable and muscular sense organ anchored securely to the floor of the mouth. This specific attachment is accomplished through a specialized fold of tissue known as the frenulum.",
-        "is_correct": true
-      },
-      {
-        "option": "By a cartilaginous flap called the epiglottis",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "By a muscular sphincter located at the base",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "By lymphoid tissues known as lingual tonsils",
         "remarks": "",
         "is_correct": false
       }
@@ -297,6 +270,33 @@
     ]
   },
   {
+    "question": "What is the approximate pH level of human saliva?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "6.8",
+        "remarks": "Human saliva has a specified pH of 6.8, which indicates a slightly acidic environment. This pH level is optimal for the action of salivary enzymes contained within the secretion.",
+        "is_correct": true
+      },
+      {
+        "option": "1.8",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "0.9",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "7.4",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
     "question": "Which structures are considered the structural and functional units of the liver?",
     "difficulty": "EASY",
     "status": "PENDING",
@@ -318,33 +318,6 @@
       },
       {
         "option": "The ampullae of Vater guarded by the sphincter of Oddi",
-        "remarks": "",
-        "is_correct": false
-      }
-    ]
-  },
-  {
-    "question": "What structural combination forms the hepatopancreatic ampulla?",
-    "difficulty": "EASY",
-    "status": "PENDING",
-    "options": [
-      {
-        "option": "The pancreatic duct and the common bile duct unite",
-        "remarks": "The pancreatic duct and the common bile duct unite to form the ampulla of Vater, also known as the hepatopancreatic ampulla. This anatomical union brings together secretions from both the pancreas and the liver before they enter the digestive tract.",
-        "is_correct": true
-      },
-      {
-        "option": "The hepatic portal vein and the common bile duct unite",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "The pancreatic duct and the hepatic portal vein unite",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "The cystic duct and the pancreatic duct unite",
         "remarks": "",
         "is_correct": false
       }
@@ -378,33 +351,6 @@
     ]
   },
   {
-    "question": "What are the two major functions performed by the buccal cavity?",
-    "difficulty": "EASY",
-    "status": "PENDING",
-    "options": [
-      {
-        "option": "Mastication of food and facilitation of swallowing",
-        "remarks": "The buccal cavity performs the primary roles of chewing food and helping it pass down. These combined mechanical and physical processes prepare the food properly before it enters the rest of the digestive tract.",
-        "is_correct": true
-      },
-      {
-        "option": "Absorption of disaccharides and secretion of lysozyme",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "Hydrolysis of proteins and antibacterial defense",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "Secretion of mucus and absorption of electrolytes",
-        "remarks": "",
-        "is_correct": false
-      }
-    ]
-  },
-  {
     "question": "Where does the chemical process of digestion officially begin in the human body?",
     "difficulty": "EASY",
     "status": "PENDING",
@@ -426,6 +372,33 @@
       },
       {
         "option": "In the esophagus during the process of deglutition",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which layer of the small intestine generates the movements responsible for mixing food with digestive juices?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Mucosal layer",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Muscularis externa layer",
+        "remarks": "The muscularis externa layer of the small intestine generates various types of movements. These muscular movements thoroughly mix the food with bile, pancreatic juice, and intestinal juice to facilitate digestion.",
+        "is_correct": true
+      },
+      {
+        "option": "Submucosal layer",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Serosal layer",
         "remarks": "",
         "is_correct": false
       }
@@ -540,6 +513,33 @@
     ]
   },
   {
+    "question": "Which term describes the complete processes leading to and including the chemical breakdown of food materials to provide energy for life?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Respiration",
+        "remarks": "Respiration is defined more accurately as the comprehensive set of processes leading to, and including, the chemical breakdown of food materials to release energy for life. This encompasses both the delivery of gases and the subsequent internal breakdown reactions.",
+        "is_correct": true
+      },
+      {
+        "option": "Ventilation",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Homeostasis",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Circulation",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
     "question": "Which type of respiration yields more energy due to the complete breakdown of organic molecules?",
     "difficulty": "EASY",
     "status": "PENDING",
@@ -567,27 +567,27 @@
     ]
   },
   {
-    "question": "What prevents the trachea from collapsing and keeps it continuously open?",
+    "question": "Which physiological process is characterized as a passive process involving the relaxation of muscles?",
     "difficulty": "EASY",
     "status": "PENDING",
     "options": [
       {
-        "option": "C-shaped rings of hyaline cartilage that are incomplete dorsally",
-        "remarks": "The wall of the trachea is supported by C-shaped rings of hyaline cartilage that remain incomplete dorsally. These specific cartilaginous rings keep the trachea always open and prevent its collapse.",
+        "option": "Expiration",
+        "remarks": "Release of alveolar air to the exterior is called expiration and is described as a passive process. It occurs when the relaxation of the diaphragm and external inter-costal muscles returns structures to their normal positions, reducing thoracic and pulmonary volume.",
         "is_correct": true
       },
       {
-        "option": "A lining of pseudostratified ciliated epithelium on the internal surface",
+        "option": "Inspiration",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Yellow elastic fibres connecting the thyroid and arytenoid cartilages",
+        "option": "Forced expiration",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Nine cartilages forming a box-like structure in the upper portion",
+        "option": "Spirometric assessment",
         "remarks": "",
         "is_correct": false
       }
@@ -648,27 +648,27 @@
     ]
   },
   {
-    "question": "Which brain region houses the respiratory rhythm centre responsible for regulating respiratory rhythm?",
+    "question": "What is the approximate volume of air inspired or expired during normal breathing in a healthy individual?",
     "difficulty": "EASY",
     "status": "PENDING",
     "options": [
       {
-        "option": "Medulla region",
-        "remarks": "A specialized centre located in the medulla region of the brain is primarily responsible for regulating respiratory rhythm. This respiratory rhythm centre controls the fundamental pattern of breathing.",
+        "option": "500 ml",
+        "remarks": "Tidal volume represents the volume of air inspired or expired during normal breathing and is approximately 500 ml. This allows a healthy person to exchange about 6000 to 8000 ml of air per minute.",
         "is_correct": true
       },
       {
-        "option": "Pons region",
+        "option": "1100 ml",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Carotid artery region",
+        "option": "2500 ml",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Aortic arch region",
+        "option": "6000 ml",
         "remarks": "",
         "is_correct": false
       }
@@ -756,54 +756,135 @@
     ]
   },
   {
-    "question": "What is the function of the mucus secreted by goblet cells located in the mucosal epithelium?",
+    "question": "What was previously thought to be the cause of peptic ulcers in the stomach wall?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
     "options": [
       {
-        "option": "It protects the alimentary canal wall from enzyme action and lubricates the passage of food",
-        "remarks": "Mucosal epithelium contains goblet cells that secrete mucus to fulfill dual protective and lubricating roles. The secreted mucus shields the gut wall from damaging enzymatic activity while simultaneously easing the movement of food.",
+        "option": "Hyper acidity",
+        "remarks": "Historically, excessive stomach acidity was believed to be the primary cause of peptic ulcers forming in the stomach wall. Medical understanding later shifted when researchers discovered that a specific bacterium is actually responsible.",
         "is_correct": true
       },
       {
-        "option": "It produces brush border enzymes to break down disaccharides",
+        "option": "Helicobacter pylori infection",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "It forms irregular folds called gastric rugae to increase absorption",
+        "option": "Deficiencies in intestinal flora",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "It supplies nerves, blood vessels, and lymph vessels to the connective tissue",
+        "option": "Antibiotic treatments",
         "remarks": "",
         "is_correct": false
       }
     ]
   },
   {
-    "question": "Which of the following are classified as digestive glands present directly within the wall of the alimentary canal?",
+    "question": "What is the correct sequential order of the parts of the alimentary canal between the mouth and the anus?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
     "options": [
       {
-        "option": "Gastric glands, Brunner's glands, and crypts of Lieberkuhn",
-        "remarks": "Gastric glands, Brunner's glands, and crypts of Lieberkuhn are specifically identified as digestive glands located in the wall of the alimentary canal. They contrast with extra alimentary canal glands like the salivary glands, liver, and pancreas.",
+        "option": "Buccal cavity, pharynx, oesophagus, stomach, small intestine, large intestine",
+        "remarks": "The alimentary canal follows a precise linear anatomical sequence starting from the anterior mouth and ending at the posterior anus. Food and material progress systematically through the buccal cavity, pharynx, oesophagus, stomach, small intestine, and large intestine in that exact order.",
         "is_correct": true
       },
       {
-        "option": "Salivary glands, liver, and pancreas",
+        "option": "Pharynx, buccal cavity, oesophagus, stomach, large intestine, small intestine",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Liver, gastric glands, and Brunner's glands",
+        "option": "Buccal cavity, oesophagus, pharynx, stomach, small intestine, large intestine",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Salivary glands, crypts of Lieberkuhn, and pancreas",
+        "option": "Pharynx, oesophagus, buccal cavity, stomach, large intestine, small intestine",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "How are the smooth muscle layers typically arranged within the muscularis externa of the alimentary canal?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Outer longitudinal and inner circular muscles",
+        "remarks": "The muscularis externa is formed by smooth muscles typically arranged into an outer longitudinal layer and an inner circular layer. This specific structural arrangement allows for coordinated contractions along the length and circumference of the gut wall.",
+        "is_correct": true
+      },
+      {
+        "option": "Outer circular and inner longitudinal muscles",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Outer oblique and inner circular muscles",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Outer longitudinal and inner oblique muscles",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which structural modification is formed by the mucosa of the stomach?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Gastric rugae",
+        "remarks": "The mucosa of the stomach forms irregular folds known as gastric rugae, with numerous microscopic gastric glands situated in between them. This mucosal architecture is distinct from the villi found in the small intestine.",
+        "is_correct": true
+      },
+      {
+        "option": "Villi",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Crypts of Lieberkuhn",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Microvilli",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the function of Castle's Intrinsic Factor secreted by the oxyntic cells?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "It is essential for the absorption of vitamin B12.",
+        "remarks": "Oxyntic or parietal cells secrete hydrochloric acid along with Castle's Intrinsic Factor. This intrinsic factor plays an essential role in facilitating the proper absorption of vitamin B12.",
+        "is_correct": true
+      },
+      {
+        "option": "It provides protection against stomach wall damage.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It converts pepsinogen into active pepsin.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It initiates the breakdown of dietary lipids.",
         "remarks": "",
         "is_correct": false
       }
@@ -837,81 +918,27 @@
     ]
   },
   {
-    "question": "Which components are present in bile juice?",
+    "question": "What is the primary function of hydrochloric acid in the stomach regarding enzymatic activity?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
     "options": [
       {
-        "option": "Bile salts and bile pigments without any digestive enzymes",
-        "remarks": "Bile juice is secreted by the liver as a yellowish-green fluid that lacks enzymes. Instead, it contains specific bile salts like sodium and potassium glycocholates and taurocholates, alongside bile pigments such as bilirubin and biliverdin.",
+        "option": "It provides the optimal acidic pH of 1.8 required for the activation and action of pepsin.",
+        "remarks": "Hydrochloric acid provides the specific acidic pH of 1.8 which is optimal for the action of pepsin. Furthermore, exposure to hydrochloric acid converts the inactive proenzymes pepsinogen and prorennin into their active enzyme forms, pepsin and rennin.",
         "is_correct": true
       },
       {
-        "option": "Digestive enzymes and various amino acids",
+        "option": "It directly converts dietary proteins into smaller peptones without the assistance of any other enzymes.",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Bile pigments and active proteolytic enzymes",
+        "option": "It neutralizes the acidic contents of the stomach to protect the mucosal epithelium from excoriation.",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Cholesterol, triglycerides, and active lipases",
-        "remarks": "",
-        "is_correct": false
-      }
-    ]
-  },
-  {
-    "question": "How does the liver process toxic substances that enter the gut along with food?",
-    "difficulty": "MEDIUM",
-    "status": "PENDING",
-    "options": [
-      {
-        "option": "Toxins reach the liver via the hepatic portal vein where the liver acts as a check post to detoxify them",
-        "remarks": "The liver functions as the chief organ of detoxification and acts as the first check post barring toxin entry into general circulation. Toxins entering through food and water travel directly to the liver via the hepatic portal vein.",
-        "is_correct": true
-      },
-      {
-        "option": "Toxins are converted into bile salts and excreted directly through the pancreatic duct",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "Toxins are stored permanently in the hepatic smooth endoplasmic reticulum without modification",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "Toxins bypass the liver through the general circulation and undergo immediate deamination",
-        "remarks": "",
-        "is_correct": false
-      }
-    ]
-  },
-  {
-    "question": "What is the function and location of Kupffer cells in the liver?",
-    "difficulty": "MEDIUM",
-    "status": "PENDING",
-    "options": [
-      {
-        "option": "They remove unwanted substances and microbes by phagocytosis and are present in the sinusoids between hepatic cords.",
-        "remarks": "Kupffer cells, also known as hepatic macrophages, act as large phagocytic cells that actively clear unwanted substances and invading microbes. They are specifically located within the sinusoids situated between hepatic cords.",
-        "is_correct": true
-      },
-      {
-        "option": "They secrete alkaline pancreatic juice and are situated between the limbs of the 'U' shaped duodenum.",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "They synthesize blood clotting factors like fibrinogen and prothrombin inside the hepatic cords.",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "They function as endocrine cells within the islets of Langerhans to release regulatory hormones.",
+        "option": "It breaks down complex starches into maltose molecules through enzymatic hydrolysis.",
         "remarks": "",
         "is_correct": false
       }
@@ -972,108 +999,81 @@
     ]
   },
   {
-    "question": "Why are chylomicrons unable to enter the blood capillaries directly?",
+    "question": "What is the primary function of gastrin in the digestive system?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
     "options": [
       {
-        "option": "Due to their large size",
-        "remarks": "Chylomicrons are very small protein-coated fat globules formed inside the intestinal epithelial cells. Because of their large size, they are restricted from entering the blood capillaries and instead enter the lacteals in the villi by exocytosis.",
+        "option": "It stimulates the secretion of hydrochloric acid and pepsinogen in the stomach",
+        "remarks": "Gastrin is secreted from the epithelium of the stomach. By acting locally, it stimulates the gastric glands to release hydrochloric acid and pepsinogen.",
         "is_correct": true
       },
       {
-        "option": "Because they are completely insoluble in the surrounding lymph fluid",
+        "option": "It inhibits gastric acidity and reduces gastro-intestinal motility",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Due to active repulsion by the endothelial walls of the blood vessels",
+        "option": "It stimulates the release of bile from the gall bladder",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Because they are immediately broken down by lipoprotein lipase in the lumen",
+        "option": "It stimulates the movement of intestinal villi to increase absorption",
         "remarks": "",
         "is_correct": false
       }
     ]
   },
   {
-    "question": "How does marasmus differ from kwashiorkor in terms of its underlying dietary cause?",
+    "question": "Which nutritional disorder is caused by a dietary deficiency of proteins alone, characterized by fluid accumulation in intercellular tissue spaces?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
     "options": [
       {
-        "option": "Marasmus is caused by a deficiency of both proteins and calories, whereas kwashiorkor is caused by protein deficiency alone.",
-        "remarks": "Marasmus is caused by a deficiency of both proteins and calories, distinguishing it from kwashiorkor which is caused specifically by protein deficiency in the diet. Both result in serious nutritional wasting and physical symptoms in children.",
+        "option": "Kwashiorkor",
+        "remarks": "Kwashiorkor is specifically caused by a deficiency of proteins in the diet. This protein shortage leads to the accumulation of fluid in the intercellular spaces of body tissues, resulting in symptoms such as oedema and swelling.",
         "is_correct": true
       },
       {
-        "option": "Marasmus is caused by an excess of dietary fats, whereas kwashiorkor is caused by a lack of carbohydrates.",
+        "option": "Marasmus",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Marasmus results exclusively from a lack of dietary calories, while kwashiorkor results from excessive protein consumption.",
+        "option": "Indigestion",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Marasmus is caused by protein deficiency alone, whereas kwashiorkor is caused by a deficiency of lipids and vitamins.",
+        "option": "Jaundice",
         "remarks": "",
         "is_correct": false
       }
     ]
   },
   {
-    "question": "What physiological process does the term deamination describe?",
+    "question": "Which specific brain region controls the rate and depth of breathing?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
     "options": [
       {
-        "option": "The removal of an amino group from amino acids during their metabolism in the liver",
-        "remarks": "Deamination involves stripping the amino group from amino acids during metabolic processing in the liver. The liberated amino group is subsequently utilized in the formation of ammonia.",
+        "option": "The pneumotaxic centre located in the pons",
+        "remarks": "The pneumotaxic centre is situated within the pons region of the brain. It specifically functions to regulate the rate and depth of breathing, whereas inhalation and exhalation generally fall under the control of the medulla oblongata.",
         "is_correct": true
       },
       {
-        "option": "The conversion of surplus glucose molecules into glycogen storage deposits",
+        "option": "The respiratory centre located within the ribcage",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "The breakdown of animal starch glycogen back into usable glucose units",
+        "option": "The medulla oblongata controlling inhalation and exhalation",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "The synthesis of urea from ammonia and carbon dioxide via specific metabolic intermediates",
-        "remarks": "",
-        "is_correct": false
-      }
-    ]
-  },
-  {
-    "question": "Why is the accumulation of carbon dioxide in the body considered a threat to physiological homeostasis?",
-    "difficulty": "MEDIUM",
-    "status": "PENDING",
-    "options": [
-      {
-        "option": "It dissolves in water to form carbonic acid, which lowers the pH of the blood.",
-        "remarks": "Carbon dioxide produced during catabolic reactions is harmful because it dissolves in bodily water to create carbonic acid. This resulting chemical reaction lowers blood pH, thereby directly threatening the delicate balance of homeostasis.",
-        "is_correct": true
-      },
-      {
-        "option": "It prevents oxygen molecules from binding to micromolecules in the circulatory system.",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "It directly inhibits cellular respiration by halting the production of ATP.",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "It undergoes anaerobic breakdown, which yields excess toxic ethanol inside cells.",
+        "option": "The parabronchi regulating continuous gas exchange",
         "remarks": "",
         "is_correct": false
       }
@@ -1107,54 +1107,54 @@
     ]
   },
   {
-    "question": "Which condition enables inspiration to take place?",
+    "question": "What specific functions are carried out by the conducting part of the respiratory system?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
     "options": [
       {
-        "option": "When intra-pulmonary pressure is lower than the atmospheric pressure",
-        "remarks": "Inspiration occurs when the pressure within the lungs drops below atmospheric pressure, creating a negative pressure gradient. This pressure difference allows atmospheric air to flow into the lungs.",
+        "option": "It transports atmospheric air, clears foreign particles, humidifies air, and brings it to body temperature",
+        "remarks": "The conducting part serves multiple conditioning roles for inhaled air before gas exchange occurs. It moves the air inward, filters out foreign particles, adds moisture, and adjusts the temperature to match the body.",
         "is_correct": true
       },
       {
-        "option": "When the intra-pulmonary pressure exceeds the atmospheric pressure",
+        "option": "It provides the actual site for the diffusion of oxygen and carbon dioxide between blood and air",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "When the pulmonary volume decreases to match the atmospheric volume",
+        "option": "It reduces mechanical friction on the lung surface using pleural fluid",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "When the internal inter-costal muscles relax completely without diaphragm movement",
+        "option": "It terminates in alveolar ducts and alveolar sacs for gas storage",
         "remarks": "",
         "is_correct": false
       }
     ]
   },
   {
-    "question": "How does the solubility of carbon dioxide compare to that of oxygen during gas exchange?",
+    "question": "Which set of conditions found in the alveoli is favorable for the formation of oxyhaemoglobin?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
     "options": [
       {
-        "option": "It is 20-25 times higher than that of oxygen",
-        "remarks": "The solubility of carbon dioxide is significantly greater than that of oxygen. Because carbon dioxide is 20-25 times more soluble, a much higher amount of it can diffuse through the diffusion membrane per unit difference in partial pressure.",
+        "option": "High pO2, low pCO2, lesser H+ concentration, and lower temperature",
+        "remarks": "The source explicitly identifies alveolar conditions as having high pO2, low pCO2, lesser H+ concentration (high pH), and lower temperature. These specific physiological parameters create the ideal environment for oxygen to bind with haemoglobin.",
         "is_correct": true
       },
       {
-        "option": "It is equal to the solubility of oxygen",
+        "option": "Low pO2, high pCO2, high H+ concentration, and higher temperature",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "It is 20-25 times lower than that of oxygen",
+        "option": "High pO2, high pCO2, lesser H+ concentration, and higher temperature",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "It is half the solubility of oxygen",
+        "option": "Low pO2, low pCO2, high H+ concentration, and lower temperature",
         "remarks": "",
         "is_correct": false
       }
@@ -1188,27 +1188,27 @@
     ]
   },
   {
-    "question": "What is the physiological purpose of the chloride shift during gas exchange at the tissues?",
+    "question": "What is the primary function of the pneumotaxic centre?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
     "options": [
       {
-        "option": "To maintain electrolyte balance when bicarbonate ions pass out of the red blood cells.",
-        "remarks": "Chloride ions diffuse from the plasma into the red blood cells as bicarbonate ions pass out into the plasma. This specific exchange of ions between the red blood cells and plasma serves to maintain overall electrolyte balance.",
+        "option": "It can moderate the functions of the respiratory rhythm centre.",
+        "remarks": "The pneumotaxic centre is present in the pons region of the brain and serves to moderate the functions of the respiratory rhythm centre. By exerting this control, it helps regulate the overall respiratory process.",
         "is_correct": true
       },
       {
-        "option": "To ensure that excess hydrogen ions remain unbuffered within the blood plasma.",
+        "option": "It acts as a specialized center primarily responsible for initiating respiration.",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "To increase the partial pressures of oxygen within the pulmonary capillaries.",
+        "option": "It directly detects high concentrations of carbon dioxide and hydrogen ions.",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "To stimulate the respiratory rhythm centre located in the medulla region.",
+        "option": "It manages the exchange of oxygen and carbon dioxide in the pulmonary capillaries.",
         "remarks": "",
         "is_correct": false
       }
@@ -1269,33 +1269,6 @@
     ]
   },
   {
-    "question": "What was previously thought to be the cause of peptic ulcers in the stomach wall?",
-    "difficulty": "MEDIUM",
-    "status": "PENDING",
-    "options": [
-      {
-        "option": "Hyper acidity",
-        "remarks": "Historically, excessive stomach acidity was believed to be the primary cause of peptic ulcers forming in the stomach wall. Medical understanding later shifted when researchers discovered that a specific bacterium is actually responsible.",
-        "is_correct": true
-      },
-      {
-        "option": "Helicobacter pylori infection",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "Deficiencies in intestinal flora",
-        "remarks": "",
-        "is_correct": false
-      },
-      {
-        "option": "Antibiotic treatments",
-        "remarks": "",
-        "is_correct": false
-      }
-    ]
-  },
-  {
     "question": "Why must bio-macromolecules like carbohydrates, proteins, and fats undergo digestion?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
@@ -1323,27 +1296,54 @@
     ]
   },
   {
-    "question": "What is the correct sequential order of the parts of the alimentary canal between the mouth and the anus?",
+    "question": "What is the function of the palate in the oral cavity?",
     "difficulty": "MEDIUM",
     "status": "PENDING",
     "options": [
       {
-        "option": "Buccal cavity, pharynx, oesophagus, stomach, small intestine, large intestine",
-        "remarks": "The alimentary canal follows a precise linear anatomical sequence starting from the anterior mouth and ending at the posterior anus. Food and material progress systematically through the buccal cavity, pharynx, oesophagus, stomach, small intestine, and large intestine in that exact order.",
+        "option": "It separates the ventral buccal cavity from the dorsal nasal chamber and facilitates chewing and breathing simultaneously.",
+        "remarks": "The palate acts as a physical divider between the ventral buccal cavity and the dorsal nasal chamber. This structural separation allows an organism to perform chewing and breathing at the same time without interference.",
         "is_correct": true
       },
       {
-        "option": "Pharynx, buccal cavity, oesophagus, stomach, large intestine, small intestine",
+        "option": "It connects the movable upper and lower lips directly to the anterior bony hard palate.",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Buccal cavity, oesophagus, pharynx, stomach, small intestine, large intestine",
+        "option": "It hangs down into the pharynx as the uvula to line the palatine rugae.",
         "remarks": "",
         "is_correct": false
       },
       {
-        "option": "Pharynx, oesophagus, buccal cavity, stomach, large intestine, small intestine",
+        "option": "It supports the four kinds of teeth located inside the jawbone sockets.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "What type of dentition is characterized by the formation of two sets of teeth during a lifetime in majority of mammals?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Heterodont dentition",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Diphyodont dentition",
+        "remarks": "Most mammals form two sets of teeth during their lifetime, consisting of temporary milk teeth replaced by permanent adult teeth. This sequential dual set formation is specifically known as diphyodont dentition.",
+        "is_correct": true
+      },
+      {
+        "option": "Thecodont dentition",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Monophyodont dentition",
         "remarks": "",
         "is_correct": false
       }

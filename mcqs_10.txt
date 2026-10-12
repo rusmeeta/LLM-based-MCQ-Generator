@@ -1,0 +1,82 @@
+MCQ PRACTICE SET — 10 Questions
+============================================================
+
+Q1. [EASY] What is the average breathing rate of a healthy human per minute?
+
+  ✓ A. 12-16 times
+      Remarks: On an average, a healthy human breathes 12-16 times per minute. This breathing frequency is part of normal pulmonary function.
+    B. 20-25 times
+    C. 8-10 times
+    D. 30-40 times
+
+Q2. [EASY] What is the primary function of carbohydrates in human food?
+
+  ✓ A. Acting as the chief energy providers for the body
+      Remarks: Carbohydrates are explicitly identified as the chief energy providers in human food. They supply the primary fuel needed for bodily functions compared to other nutrients which serve different biological roles.
+    B. Serving as the body's structural builders and forming enzymes
+    C. Providing energy reserves that are mostly stored in adipose tissue
+    D. Producing necessary vitamins through the action of intestinal flora
+
+Q3. [EASY] Which of the following substances is synthesized by the liver?
+
+  ✓ A. Heparin
+      Remarks: The liver synthesizes various plasma proteins and specific specialized compounds like the anticoagulant heparin. This distinguishes its synthetic output from purely exocrine secretions produced elsewhere in the digestive system.
+    B. Trypsinogen
+    C. Insulin
+    D. Glucagon
+
+Q4. [MEDIUM] What is the primary function of hydrochloric acid in the stomach regarding enzymatic activity?
+
+  ✓ A. It provides the optimal acidic pH of 1.8 required for the activation and action of pepsin.
+      Remarks: Hydrochloric acid provides the specific acidic pH of 1.8 which is optimal for the action of pepsin. Furthermore, exposure to hydrochloric acid converts the inactive proenzymes pepsinogen and prorennin into their active enzyme forms, pepsin and rennin.
+    B. It directly converts dietary proteins into smaller peptones without the assistance of any other enzymes.
+    C. It neutralizes the acidic contents of the stomach to protect the mucosal epithelium from excoriation.
+    D. It breaks down complex starches into maltose molecules through enzymatic hydrolysis.
+
+Q5. [MEDIUM] Which nutritional disorder is caused by a dietary deficiency of proteins alone, characterized by fluid accumulation in intercellular tissue spaces?
+
+  ✓ A. Kwashiorkor
+      Remarks: Kwashiorkor is specifically caused by a deficiency of proteins in the diet. This protein shortage leads to the accumulation of fluid in the intercellular spaces of body tissues, resulting in symptoms such as oedema and swelling.
+    B. Marasmus
+    C. Indigestion
+    D. Jaundice
+
+Q6. [EASY] Which term describes the complete processes leading to and including the chemical breakdown of food materials to provide energy for life?
+
+  ✓ A. Respiration
+      Remarks: Respiration is defined more accurately as the comprehensive set of processes leading to, and including, the chemical breakdown of food materials to release energy for life. This encompasses both the delivery of gases and the subsequent internal breakdown reactions.
+    B. Ventilation
+    C. Homeostasis
+    D. Circulation
+
+Q7. [MEDIUM] Which structural modification is formed by the mucosa of the stomach?
+
+  ✓ A. Gastric rugae
+      Remarks: The mucosa of the stomach forms irregular folds known as gastric rugae, with numerous microscopic gastric glands situated in between them. This mucosal architecture is distinct from the villi found in the small intestine.
+    B. Villi
+    C. Crypts of Lieberkuhn
+    D. Microvilli
+
+Q8. [EASY] Which enzyme is responsible for converting inactive trypsinogen into active trypsin?
+
+  ✓ A. Enterokinase
+      Remarks: Trypsinogen is activated into active trypsin by the enzyme enterokinase. Enterokinase is specifically secreted by the intestinal mucosa to initiate this activation cascade.
+    B. Chymotrypsinogen
+    C. Carboxypeptidase
+    D. Steapsin
+
+Q9. [EASY] Which anatomical structure guards the opening between the stomach and the small intestine?
+
+  ✓ A. The pyloric sphincter
+      Remarks: The pyloric sphincter guards the pyloric aperture, which is the opening through which the posterior pyloric portion of the stomach connects to the first part of the small intestine. This structure regulates the passage of contents leaving the stomach.
+    B. The ilio-caecal valve
+    C. The internal anal sphincter
+    D. The external anal sphincter
+
+Q10. [HARD] What sequence of events causes air to move into the lungs during inspiration?
+
+  ✓ A. Increased thoracic volume leads to increased pulmonary volume, decreasing intra-pulmonary pressure below atmospheric pressure.
+      Remarks: Contraction of respiratory muscles increases thoracic and pulmonary volume, which drops the intra-pulmonary pressure to less than that of the atmosphere. This pressure gradient forces external air to move into the lungs.
+    B. Decreased thoracic volume leads to decreased pulmonary volume, increasing intra-pulmonary pressure above atmospheric pressure.
+    C. Relaxation of the diaphragm increases pulmonary volume, raising intra-pulmonary pressure above atmospheric levels.
+    D. Contraction of internal intercostal muscles decreases pulmonary volume and forces outside air inward.
