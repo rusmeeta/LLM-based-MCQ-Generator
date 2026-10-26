@@ -188,14 +188,6 @@ Figure 1.13 is a text-based diagram heading titled "A section of an alveolus wit
 
 ---
 
-## Zoology.pdf-0048-04.png
-
-![Zoology.pdf-0048-04.png](images/Zoology.pdf-0048-04.png)
-
-[FAILED]
-
----
-
 ## Zoology.pdf-0048-05.png
 
 ![Zoology.pdf-0048-05.png](images/Zoology.pdf-0048-05.png)
