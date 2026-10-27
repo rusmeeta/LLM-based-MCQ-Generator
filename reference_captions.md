@@ -150,7 +150,7 @@ Total valid diagrams extracted: **21**
 
 ### Zoology.pdf-0049-11.png
 
-![Zoology.pdf-0049-11.png](images/Zool  ogy.pdf-0049-11.png)
+![Zoology.pdf-0049-11.png](images/Zoology.pdf-0049-11.png)
 
 **Caption:** Oxygen-haemoglobin dissociation curve showing the effects of pH, carbon dioxide, and temperature on oxyhaemoglobin saturation versus PO2.
 
