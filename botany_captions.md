@@ -14,27 +14,27 @@ Captions: FRAGMENT
 
 ![Botany.pdf-0004-00.png](botany_images/Botany.pdf-0004-00.png)
 
-Captions: Biological classification system showing taxonomic groups such as plants, fungi, bacteria, insects, mammals, and birds alongside levels of organization and scientific disciplines.
+Captions: Biological sciences classification model showing the organizational levels of ecosystems, organisms, cells, and molecules across disciplines such as botany, mycology, microbiology, and ecology.
 
 
 ![Botany.pdf-0005-00.png](botany_images/Botany.pdf-0005-00.png)
 
-Captions: Biological classification system showing the kingdoms Vegetabilia, Animalia, Protista, and Monera, alongside Viri and levels of cellular complexity.
+Captions: Biological classification hierarchy showing the domains and kingdoms of life, including Vegetabilia, Animalia, Protista, Monera, and Viri, with levels for cell, nucleus, and tissues.
 
 
 ![Botany.pdf-0008-00.png](botany_images/Botany.pdf-0008-00.png)
 
-Captions: FRAGMENT
+Captions: Hydrogen bonding in water molecules, showing the oxygen (O) and hydrogen (H) atoms with partial positive (δ+) and negative (δ-) charges.
 
 
 ![Botany.pdf-0011-00.png](botany_images/Botany.pdf-0011-00.png)
 
-Captions: Photosynthesis experiment showing Priestley's bell jar setup with a plant, a burning candle, and a mouse.
+Captions: Photosynthesis cycle showing Priestley's experiment with a candle, a plant, and a mouse in sealed bell jars.
 
 
 ![Botany.pdf-0012-00.png](botany_images/Botany.pdf-0012-00.png)
 
-Captions: This diagram illustrates the action spectrum of photosynthesis showing the *Spirogyra* alga, bacterial cells, and light from a prism with wavelength measurements from 400 to 760 nm.
+Captions: Photosynthesis cycle showing the Spirogyra alga, bacterial cells, and light from prism.
 
 
 ![Botany.pdf-0013-00.png](botany_images/Botany.pdf-0013-00.png)
@@ -54,7 +54,7 @@ Captions: Photosynthesis cycle showing sun rays, photosystems, segregation of io
 
 ![Botany.pdf-0015-00.png](botany_images/Botany.pdf-0015-00.png)
 
-Captions: Chloroplast structure showing the thylakoid, granum, starch, DNA, and matrix (stroma).
+Captions: Plant cell structure showing the thylakoid, granum, starch, DNA, and matrix (stroma).
 
 
 ![Botany.pdf-0015-02.png](botany_images/Botany.pdf-0015-02.png)
@@ -64,27 +64,27 @@ Captions: FRAGMENT
 
 ![Botany.pdf-0016-00.png](botany_images/Botany.pdf-0016-00.png)
 
-Captions: Photosynthesis cycle showing the light stage and the Calvin cycle with ATP synthase, thylakoid, stroma, and chemical intermediates such as ADP, NADPH, RuBP, and glucose.
+Captions: Photosynthesis cycle showing the light stage and the Calvin cycle with ATP synthase, thylakoid, stroma, RuBP, Rubisco, PGA, PGAL, and glucose.
 
 
 ![Botany.pdf-0017-00.png](botany_images/Botany.pdf-0017-00.png)
 
-Captions: Photosynthesis cycle showing the light reactions, H+ reservoir, ATP, NADPH, and the C3 (Calvin) cycle with carbon fixation, RuBP, and glucose production.
+Captions: Photosynthesis cycle showing the light-dependent reactions with the H+ reservoir, ATP, and NADPH, and the C3 (Calvin) cycle showing carbon fixation with Rubisco, RuBP, and glucose production.
 
 
 ![Botany.pdf-0018-02.png](botany_images/Botany.pdf-0018-02.png)
 
-Captions: Photosynthesis cycle comparing the normal C3 cycle and photorespiration mediated by Rubisco, showing inputs and outputs including ATP, NADPH, CO2, O2, RuBP, PGA, PGAL, and sugars.
+Captions: Photosynthesis cycle showing the normal C3 cycle and photorespiration involving Rubisco, RuBP, CO2, O2, ATP, NADPH, PGA, PGAL, and sugars.
 
 
 ![Botany.pdf-0019-00.png](botany_images/Botany.pdf-0019-00.png)
 
-Captions: Photosynthesis cycle showing the C4 pathway, C3 cycle, CO2 fixation by PEP carboxylase and Rubisco, and intermediate molecules including pyruvate, PEP, RuBP, PGA, PGAL, and glucose.
+Captions: Photosynthesis cycle showing the C4 pathway, C3 cycle, PEP carboxylase, Rubisco, ATP, NADPH, and resulting glucose.
 
 
 ![Botany.pdf-0020-00.png](botany_images/Botany.pdf-0020-00.png)
 
-Captions: Photosynthesis cycle showing the C4 pathway, CO2 fixation, and the Calvin cycle in mesophyll and bundle sheath cells.
+Captions: Photosynthesis cycle showing the C4 pathway in a mesophyll cell and the Calvin cycle in a bundle sheath cell, with CO2 fixation and glucose production.
 
 
 ![Botany.pdf-0020-01.png](botany_images/Botany.pdf-0020-01.png)
@@ -94,12 +94,12 @@ Captions: FRAGMENT
 
 ![Botany.pdf-0020-02.png](botany_images/Botany.pdf-0020-02.png)
 
-Captions: Photosynthesis cycle showing the C4 pathway, CO2 fixation, Calvin cycle, and glucose production.
+Captions: Photosynthesis cycle showing the C4 pathway, Calvin cycle, carbon dioxide input, and glucose output.
 
 
 ![Botany.pdf-0023-01.png](botany_images/Botany.pdf-0023-01.png)
 
-Captions: Prokaryotic cell structure, showing the cell wall, prokaryotic flagella, circular DNA, membrane pocket, and vesicle (vacuole).
+Captions: Prokaryotic cell structure, showing the cell wall, circular DNA, prokaryotic flagella, vesicle (vacuole), and membrane pocket.
 
 
 ![Botany.pdf-0023-05.png](botany_images/Botany.pdf-0023-05.png)
@@ -114,17 +114,17 @@ Captions: FRAGMENT
 
 ![Botany.pdf-0024-02.png](botany_images/Botany.pdf-0024-02.png)
 
-Captions: Plant cell structure showing molecules passing through a selectively permeable membrane via pores.
+Captions: Plant cell structure, showing the cell wall, membrane, and molecular transport mechanisms.
 
 
 ![Botany.pdf-0025-00.png](botany_images/Botany.pdf-0025-00.png)
 
-Captions: Plant cell structure, showing water (H2O) movement across the cell membrane into and out of the vacuole.
+Captions: Plant cell structure showing water movement ($\text{H}_2\text{O}$) across stages of osmosis and turgor pressure.
 
 
 ![Botany.pdf-0026-00.png](botany_images/Botany.pdf-0026-00.png)
 
-Captions: Plant cell structure showing the cell wall, membrane, vacuole, chloroplast, rough ER, smooth ER, Golgi apparatus, mitochondrion, peroxisomes, lysosome, lipid globule, micro-tubules, plasmodesm, chromatin, nucleolus, nucleus, and nuclear pore.
+Captions: Plant cell structure showing the cell wall, membrane, nucleus, vacuole, chloroplast, mitochondrion, rough ER, smooth ER, Golgi apparatus, peroxisomes, lysosome, lipid globule, chromatin, nucleolus, nuclear pore, microtubules, and plasmodesm.
 
 
 ![Botany.pdf-0027-00.png](botany_images/Botany.pdf-0027-00.png)
@@ -149,16 +149,16 @@ Captions: FRAGMENT
 
 ![Botany.pdf-0029-01.png](botany_images/Botany.pdf-0029-01.png)
 
-Captions: Plant cell structure showing the middle lamella, primary cell wall, secondary cell wall, and cell lumen.
+Captions: Plant cell structure showing the middle lamina, primary cell wall, secondary cell wall, and cell lumen.
 
 
 ![Botany.pdf-0030-00.png](botany_images/Botany.pdf-0030-00.png)
 
-Captions: Plant cell structure, showing the nucleus, mitochondria, and endoplasmic reticulum.
+Captions: Plant cell structure showing the nucleus, mitochondria, Golgi apparatus, and endoplasmic reticulum.
 
 
 ![Botany.pdf-0030-01.png](botany_images/Botany.pdf-0030-01.png)
 
-Captions: Plant cell structure, showing the nucleus, vacuole, chloroplasts, mitochondria, and endoplasmic reticulum.
+Captions: Plant cell structure showing the nucleus, chloroplasts, mitochondria, vacuole, and other organelles.
 
 
