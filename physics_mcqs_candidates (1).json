@@ -1,0 +1,3360 @@
+[
+  {
+    "chunk_id": 1,
+    "question": "What is the CGS system of units?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Centimetre Gram Second system",
+        "remarks": "The CGS system stands for the Centimetre Gram Second system as defined in the classification of unit systems. This system was used extensively until recently alongside MKS and FPS systems.",
+        "is_correct": true
+      },
+      {
+        "option": "Celsius Gram Second system",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Centimetre Gallon Second system",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Coulomb Gram Second system",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 1,
+    "question": "When did the 14th International general conference on weights and measures recommend the use of the International system of units?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "1971",
+        "remarks": "In the year 1971, the 14th International general conference on weights and measures recommended the use of 'International system' of units. This specific year marks the formal international recommendation for SI units.",
+        "is_correct": true
+      },
+      {
+        "option": "1961",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "1981",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "1951",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 1,
+    "question": "Which of the following is classified as a fundamental quantity?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Electric current",
+        "remarks": "Electric current is one of the seven fundamental quantities listed alongside length, mass, time, temperature, luminous intensity, and amount of substance. These quantities do not depend on any other physical quantities for their measurements.",
+        "is_correct": true
+      },
+      {
+        "option": "Velocity",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Volume",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Force",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is the SI unit of luminous intensity?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "candela",
+        "remarks": "The SI unit corresponding to luminous intensity is explicitly listed as candela in the provided table of fundamental quantities. This unit serves as the baseline standard for measuring luminous intensity in the system.",
+        "is_correct": true
+      },
+      {
+        "option": "kelvin",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "ampere",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "mole",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is the derived unit of momentum?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$kg m s^{-1}$",
+        "remarks": "Momentum is expressed as the product of the unit of mass and the unit of velocity, combining kilograms with meters per second. This dimensional composition yields the correct derived unit representation for momentum.",
+        "is_correct": true
+      },
+      {
+        "option": "$m s^{-1}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$kg m^2 s^{-2}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$kg m^{-2} s$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is the formula for plane angle ($d\theta$) in terms of arc length ($ds$) and radius ($r$)?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$d\theta = ds/r$",
+        "remarks": "Plane angle is defined specifically as the ratio of the length of an arc of a circle to the radius of the circle. This relationship is mathematically expressed by dividing the arc length by the radius.",
+        "is_correct": true
+      },
+      {
+        "option": "$d\theta = r/ds$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$d\theta = ds \times r$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$d\theta = r^2 / ds$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 3,
+    "question": "What is the SI unit of solid angle ($d\\\\Omega$)?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "steradian",
+        "remarks": "The solid angle is measured in steradians (sr) as defined by the ratio of the surface area to the square of the radius. This serves as the standard unit for three-dimensional angular measurements.",
+        "is_correct": true
+      },
+      {
+        "option": "radian",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "degree",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "metre",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 3,
+    "question": "What is the solid angle subtended by the entire sphere at its centre?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$4\\\\pi\\\\text{ sr}$",
+        "remarks": "The solid angle subtended by the entire sphere is calculated by dividing the total surface area of $4\\\\pi r^2$ by the square of the radius $r^2$. This yields a total value of $4\\\\pi$ steradians for the complete sphere.",
+        "is_correct": true
+      },
+      {
+        "option": "$2\\\\pi\\\\text{ sr}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\\\pi\\\\text{ sr}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$4\\\\pi^2\\\\text{ sr}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 3,
+    "question": "Which convention must be followed regarding the plural form of unit symbols?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Symbols for units do not take plural form",
+        "remarks": "Symbols for units do not take plural forms, meaning a force of twenty newtons is written as 20 N rather than 20 Ns or 20 newtons. This maintains strict standardization across all scientific documentation.",
+        "is_correct": true
+      },
+      {
+        "option": "Symbols for units must take plural form when greater than one",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Symbols for units take an 's' at the end for plurals",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Symbols for units take double letters for plurals",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is the SI unit of length?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Metre (m)",
+        "remarks": "The SI unit used to measure length or distance is defined as the metre. This fundamental quantity forms the basis for spatial measurements in physics.",
+        "is_correct": true
+      },
+      {
+        "option": "Second (s)",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Kilogram (kg)",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Joule (J)",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 4,
+    "question": "Which of the following represents the correct way to write the SI unit of acceleration?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "m s^{-2}",
+        "remarks": "The units of physical quantities in the numerator and denominator must be written as a single ratio. Therefore, the correct representation for acceleration is m/s$^2$ or m s$^{-2}$ rather than m/s/s.",
+        "is_correct": true
+      },
+      {
+        "option": "m/s/s",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "metre per second squared",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "m · s / s",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 4,
+    "question": "What value is used for the speed of light in vacuum to define the metre precisely?",
+    "difficulty": "HARD",
+    "options": [
+      {
+        "option": "299792458 m/s",
+        "remarks": "A metre is defined as the length of the path travelled by light in vacuum during a time interval of 1/299792458 second, based on a precise speed of light equal to 299792458 m/s. This standard was adopted by 1983 for high precision measurements.",
+        "is_correct": true
+      },
+      {
+        "option": "3 \times 10^8 m/s",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "196000000 m/s",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "299792458 km/s",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 5,
+    "question": "What is the parallax method used to measure?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Large distances such as the distance of a planet or a star from the Earth",
+        "remarks": "Large astronomical distances cannot be measured directly using a standard metre scale. Therefore, the parallax method is employed to determine these vast distances.",
+        "is_correct": true
+      },
+      {
+        "option": "The thickness of a piece of paper",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The radius of a hydrogen atom",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The length of a typical virus",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 5,
+    "question": "How is parallax defined in the context of measurements?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "The apparent change in position of an object due to a change in the position of the observer",
+        "remarks": "Parallax is defined as the apparent shift in the position of an object when viewed from two different observer positions. This phenomenon forms the underlying principle for measuring large astronomical distances.",
+        "is_correct": true
+      },
+      {
+        "option": "The actual physical movement of a celestial body against the background",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The angle formed between two distant points on the Earth's surface",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The direct linear measurement of a planet using a metre scale",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is the angular diameter of a planet?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "The angle subtended by the diameter of the planet at any single point on the Earth.",
+        "remarks": "The angle subtended by the diameter of a planet at any single point on the Earth is defined as the angular diameter of the planet. This angle is used in conjunction with the distance to calculate the linear size of the celestial body.",
+        "is_correct": true
+      },
+      {
+        "option": "The angle between two diametrically opposite points viewed from two different planets.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The distance $b$ separated by a straight line between two observation points on Earth.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The parallax angle measured from two opposite points along the orbit of the Earth.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 6,
+    "question": "What formula gives the diameter $d$ of a planet in terms of its angular diameter $\\alpha$ and distance $D$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$d = \\alpha D$",
+        "remarks": "The diameter of a planet is calculated using the relation $d = \\alpha D$, derived from the angular diameter formula where $\\alpha = d / D$. Knowing both the angular diameter and the distance allows for the determination of the actual size.",
+        "is_correct": true
+      },
+      {
+        "option": "$d = \\frac{\\alpha}{D}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$d = \\frac{D}{\\alpha}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$d = \\alpha + D$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is the distance to the next closest star after the Sun?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$4.29$ light years",
+        "remarks": "The text explicitly states that the Sun is the closest star to the Earth, and the next closest star is located at a distance of $4.29$ light years. This value sets the scale for stellar distance measurements.",
+        "is_correct": true
+      },
+      {
+        "option": "$1$ light year",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$2$ AU",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$10$ light years",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 7,
+    "question": "What is the value of 1 astronomical unit (AU) in metres?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "$1.496 \\times 10^{11}$ m",
+        "remarks": "One astronomical unit is defined as $1.496 \\times 10^{11}$ metres, representing the mean distance between the centre of the Earth and the centre of the Sun. This specific value is utilized by astronomers to measure large distances within the solar system.",
+        "is_correct": true
+      },
+      {
+        "option": "$9.46 \\times 10^{15}$ m",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$3.08 \\times 10^{16}$ m",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$3.26 \\times 10^{16}$ m",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 7,
+    "question": "What apparatus is used to measure the size of atoms and molecules?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Electron microscope or tunnelling electron microscope",
+        "remarks": "Conventional apparatus like Vernier callipers or screw gauges are insufficient for measuring the size of atoms and molecules. Therefore, specialised instruments such as the electron microscope or tunnelling electron microscope are required for these extremely small dimensions.",
+        "is_correct": true
+      },
+      {
+        "option": "Vernier calliper and screw gauge",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Astronomical telescopes",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Parallax measuring instruments",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 7,
+    "question": "What is the value of 1 fermi (1F) in the SI system?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "$10^{-15}$ m",
+        "remarks": "Small distances are measured in units of fermi where 1F equals $10^{-15}$ metres in the SI system, which is also designated as one femtometre. This unit is specifically applied when dealing with very small scales such as nuclear dimensions.",
+        "is_correct": true
+      },
+      {
+        "option": "$10^{-10}$ m",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$10^{11}$ m",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$10^{15}$ m",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 8,
+    "question": "What is the SI value representing one fermi (F)?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "$10^{-15}$ m",
+        "remarks": "Small distances are measured using the fermi unit, which is defined in the source as equal to $10^{-15}$ m. This precise metric definition establishes the exact spatial scale designated by the symbol F.",
+        "is_correct": true
+      },
+      {
+        "option": "$10^{-10}$ m",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$10^{-12}$ m",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$10^{-18}$ m",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 8,
+    "question": "What is the approximate wavelength of electrons used in an electron microscope?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "0.6 A$^0$",
+        "remarks": "The source explicitly states that the approximate wavelength of the electrons in an electron microscope is about 0.6 A$^0$. This short wavelength allows the measurement of atomic sizes.",
+        "is_correct": true
+      },
+      {
+        "option": "1 A$^0$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "4000 A$^0$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "7000 A$^0$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 8,
+    "question": "What is the calculated diameter of the Earth when the moon is viewed from two diametrically opposite points at a distance of $3.84 \times 10^8$ m?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "$1.274 \times 10^7$ m",
+        "remarks": "Multiplying the angular subtension in radians by the distance to the moon yields the Earth's diameter as calculated in Example 1.3. This direct mathematical computation provides the exact dimension stated in the solved problem.",
+        "is_correct": true
+      },
+      {
+        "option": "$3.317 \times 10^{-2}$ m",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$3.84 \times 10^8$ m",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "1.186 m",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 9,
+    "question": "What standard atom is internationally decided to compare the mass of atoms and molecules?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "C$^{12}$ atom",
+        "remarks": "The mass of atoms and molecules is compared in terms of an unexcited C$^{12}$ atom. This standard was chosen internationally to establish a consistent atomic mass unit.",
+        "is_correct": true
+      },
+      {
+        "option": "Platinum-iridium alloy",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Electromagnet core",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Solar day reference",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 9,
+    "question": "What is the SI unit of time?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Second (s)",
+        "remarks": "The SI unit of time is explicitly defined as the second. For many years, the duration of one mean solar day was used as a reference for this measurement.",
+        "is_correct": true
+      },
+      {
+        "option": "Mean solar day",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Atomic mass unit",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Hour",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 10,
+    "question": "What is the duration of a mean Solar day in seconds?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$86400$ s",
+        "remarks": "A mean Solar day is equal to 24 hours, which when multiplied by 60 minutes and 60 seconds gives 86400 seconds. This calculation establishes the baseline for defining a second in terms of a mean Solar day.",
+        "is_correct": true
+      },
+      {
+        "option": "$3600$ s",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$9192631770$ s",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$24000$ s",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 10,
+    "question": "Which specific clock is used to provide a more standard and nonvarying unit for the measurement of time?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Cesium atomic clock",
+        "remarks": "Because the length of a solar day varies gradually due to the slowing down of the Earth's rotation, a cesium atomic clock is used to obtain a constant unit of time. This clock relies on periodic vibrations produced in a cesium atom.",
+        "is_correct": true
+      },
+      {
+        "option": "Quartz crystal clock",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Mean Solar clock",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Hydrogen maser clock",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 10,
+    "question": "What do the dimensions of a physical quantity represent?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "The powers to which the concerned fundamental units must be raised in order to obtain the unit of the given physical quantity",
+        "remarks": "The dimensions of a physical quantity are defined precisely as the powers to which the fundamental units must be raised to obtain the unit of that quantity. This forms the basis for constructing dimensional formulas.",
+        "is_correct": true
+      },
+      {
+        "option": "The numerical magnitude of a derived physical quantity in a given system of units",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The exact combination of seven basic quantities multiplied by a scalar constant",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The square bracket expression containing commas between fundamental symbols",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 11,
+    "question": "What is the dimensional formula of velocity gradient?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$[L^0 M^0 T^{-1}]$",
+        "remarks": "The velocity gradient is defined as velocity divided by distance, yielding dimensions of length per time divided by length. Simplifying this ratio results in the dimensional formula of inverse time, expressed as $[L^0 M^0 T^{-1}]$.",
+        "is_correct": true
+      },
+      {
+        "option": "$[L^1 M^0 T^{-1}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^2 M^1 T^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^{-1} M^1 T^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 11,
+    "question": "What is the dimensional formula of pressure?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$[L^{-1} M^1 T^{-2}]$",
+        "remarks": "Pressure is calculated as force divided by area, where force has the dimensions $[L^{1}M^{1}T^{-2}]$ and area has dimensions $[L^2]$. Dividing force dimensions by area dimensions yields the correct dimensional formula for pressure.",
+        "is_correct": true
+      },
+      {
+        "option": "$[L^{1} M^{1} T^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^{2} M^{1} T^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^{-3} M^{1} T^{0}]$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 11,
+    "question": "What principle is used to check the correctness of physical equations by ensuring the dimensions of all terms on both sides are the same?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Principle of homogeneity of dimensions",
+        "remarks": "An equation is considered dimensionally correct if the dimensions of all the terms on both the left and right hand sides are identical. This fundamental rule is specifically known as the principle of homogeneity of dimensions.",
+        "is_correct": true
+      },
+      {
+        "option": "Principle of dimensional independence",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Law of conservation of dimensions",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Theorem of dimensional analysis",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the dimensional formula for work used in finding the conversion factor between joule and erg?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$[M^1 L^2 T^{-2}]$",
+        "remarks": "The dimensional formula for work is given directly in the passage as $[M^1 L^2 T^{-2}]$. Recognizing this exact expression allows us to set up the conversion equation between SI and CGS units correctly.",
+        "is_correct": true
+      },
+      {
+        "option": "$[M^1 L^1 T^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[M^1 L^2 T^{-1}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[M^0 L^2 T^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the experimentally determined value of the proportionality constant $k$ for the period of oscillation of a simple pendulum?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$2\\pi$",
+        "remarks": "The text explicitly states that the value of $k$ is determined experimentally and is found to be $2\\pi$. This yields the final relation $T = 2\\pi \\sqrt{l/g}$ for the simple pendulum.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\pi$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$1$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$4\\pi^2$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the dimensional formula for the term $[at]$ in the equation $v = u + at$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$[LT^{-1}]$",
+        "remarks": "The dimensional formula for acceleration is $[LT^{-2}]$ and for time is $[T]$, which multiplies to give $[LT^{-2}][T] = [LT^{-1}]$. This matches the dimensions of velocity on the left-hand side, confirming the equation is dimensionally correct.",
+        "is_correct": true
+      },
+      {
+        "option": "$[LT^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^2 T^{-1}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L T]$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 13,
+    "question": "What is the relationship between 1 joule and 1 erg derived from unit conversion factors?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$1 \\text{ joule} = 10^7 \\text{ erg}$",
+        "remarks": "The calculation demonstrates that substituting mass in kilograms and grams, and length in meters and centimeters, yields a conversion factor of $10^7$. This confirms that 1 joule equals $10^7$ erg through dimensional scaling.",
+        "is_correct": true
+      },
+      {
+        "option": "$1 \\text{ joule} = 10^5 \\text{ erg}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$1 \\text{ joule} = 10^3 \\text{ erg}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$1 \\text{ joule} = 10^9 \\text{ erg}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 13,
+    "question": "What is the magnitude of 1 calorie in the new unit system where mass, length, and time units are $\\alpha \\text{ kg}$, $\\beta \\text{ m}$, and $\\gamma \\text{ s}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$\\frac{4.2 \\gamma^2}{\\alpha \\beta^2} \\text{ J}'$",
+        "remarks": "By substituting the base unit conversions into the dimensional formula for energy ($kg m^2 s^{-2}$), the numerical magnitude rearranges with $\\alpha$, $\\beta^2$, and $\\gamma^2$. This yields the correct expression for 1 calorie in the new system of units.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\frac{4.2 \\alpha \\beta^2}{\\gamma^2} \\text{ J}'$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\frac{4.2 \\alpha \\gamma^2}{\\beta^2} \\text{ J}'$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\frac{4.2 \\beta^2}{\\alpha \\gamma^2} \\text{ J}'$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 13,
+    "question": "Why can dimensional analysis not be used to derive relations involving trigonometric, exponential, and logarithmic functions?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Because these quantities are dimensionless",
+        "remarks": "Trigonometric, exponential, and logarithmic functions lack dimensions and cannot be uniquely determined through dimensional balancing alone. Consequently, relations involving them are excluded from derivation using dimensional analysis.",
+        "is_correct": true
+      },
+      {
+        "option": "Because these quantities possess fundamental SI units",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Because these functions require the constant of proportionality to have dimensions",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Because experimental values for these functions are always constant",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 14,
+    "question": "What is accuracy in the context of physical measurements?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "How close a measurement is to the actual value of that quantity",
+        "remarks": "Accuracy is defined as how close a measured value is to the true value of the quantity being measured. This definition distinguishes it from precision, which deals with reproducibility.",
+        "is_correct": true
+      },
+      {
+        "option": "How reproducible multiple measurements are to one another",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The absolute least count of the measuring instrument",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The extent of external factors affecting the experiment",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 14,
+    "question": "What is precision in physical measurements?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "The closeness of a measured value to the true value",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The property where multiple measurements yield nearly identical values",
+        "remarks": "Precision refers to obtaining nearly identical values across multiple measurements, meaning the results are reproducible. It is distinct from accuracy, which measures closeness to the true value.",
+        "is_correct": true
+      },
+      {
+        "option": "The dimensional correctness of an equation",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The absence of any experimental uncertainty",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 14,
+    "question": "Why is the dimensional method not useful when determining the gravitational constant equation?",
+    "difficulty": "HARD",
+    "options": [
+      {
+        "option": "Because the distance between the two masses cannot be measured",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Because the product of the two masses is dimensionless",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Because the constant of proportionality is not a dimensionless quantity",
+        "remarks": "The dimensional method is limited and fails when the constant of proportionality contains dimensions. In the gravitational force equation, the constant G is not dimensionless, rendering the method ineffective for this case.",
+        "is_correct": true
+      },
+      {
+        "option": "Because the equation already contains additional terms of the same dimension",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 15,
+    "question": "What is the primary cause of instrumental errors in physical measurements?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Defective calibration of an instrument",
+        "remarks": "Instrumental errors arise due to defective calibration of an instrument, such as incorrect zeroing. This inherent inaccuracy within the device causes systematic deviations in every recorded observation.",
+        "is_correct": true
+      },
+      {
+        "option": "Random fluctuations in external temperature",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Unskilled handling by the observer",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Incorrect mathematical formula application",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 15,
+    "question": "Which category of errors tends to be in only one direction, either positive or negative?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Systematic errors",
+        "remarks": "Systematic errors tend to be in one direction, either positive or negative, because they stem from inherent inaccuracies like imperfect calibration. This predictable directional bias distinguishes them from random fluctuations.",
+        "is_correct": true
+      },
+      {
+        "option": "Random errors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Parallax errors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Least count errors",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 16,
+    "question": "What is the primary cause of personal error in measurements?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Fault of the observer",
+        "remarks": "Personal errors are introduced due to fault of the observer such as bias or carelessness. Looking at a ruler from an angle instead of directly above introduces a personal error due to parallax.",
+        "is_correct": true
+      },
+      {
+        "option": "Random fluctuations in ambient temperature",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Uncalibrated measuring instruments",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Unavoidable voltage changes in power supplies",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 16,
+    "question": "How can random errors be minimized?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "By taking repeated observations and calculating their mean",
+        "remarks": "Random errors cannot be eliminated completely, but they can be minimized by repeated observations and then taking their mean or average. This approach reduces the impact of unpredictable variations during the experiment.",
+        "is_correct": true
+      },
+      {
+        "option": "By using a completely different experimental procedure",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "By eliminating all systematic errors completely",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "By reading the measuring instrument from a specific angle",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 16,
+    "question": "What formula represents the absolute error $\\Delta a_1$ for an individual reading $a_1$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$| a_{mean} - a_1 |$",
+        "remarks": "The magnitude of the difference between the mean value and each individual value is called the absolute error. Thus for $a_1$, the absolute error $\\Delta a_1$ is given by the absolute value of the difference between $a_{mean}$ and $a_1$.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\frac{a_1 + a_{mean}}{2}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$a_{mean} + a_1$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$| a_1 - \\sum a_i |$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 17,
+    "question": "What is the definition of mean absolute error in the measurement of a physical quantity?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "The arithmetic mean of all the absolute errors",
+        "remarks": "The text explicitly defines the mean absolute error as the arithmetic mean of all the absolute errors. This captures the exact mathematical and verbal definition provided in the source material.",
+        "is_correct": true
+      },
+      {
+        "option": "The sum of all individual absolute errors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The ratio of absolute error to the mean value",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The product of absolute error and total number of readings",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 17,
+    "question": "What formula gives the relative error of a physical quantity?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$$\\frac{\\Delta a_{mean}}{a_{mean}}$$",
+        "remarks": "Relative error is defined as the ratio of the mean absolute error to its arithmetic mean value. The formula correctly expresses this specific ratio using the notation established in the text.",
+        "is_correct": true
+      },
+      {
+        "option": "$$a_{mean} \\pm \\Delta a_{mean}$$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$$\\frac{\\Delta a_{mean}}{a_{mean}} \\times 100$$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$$\\frac{1}{n} \\sum_{i=1}^{n} \\Delta a_i$$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 17,
+    "question": "What is the least count of the Vernier callipers specified for the experimental activity?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "0.01 cm",
+        "remarks": "The experimental activity instructions explicitly state to perform the experiment using a Vernier callipers of a specific least count. This value is directly quoted from the given procedure instructions.",
+        "is_correct": true
+      },
+      {
+        "option": "0.1 cm",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "0.001 cm",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "1.0 cm",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 18,
+    "question": "What is the maximum absolute error $\\Delta Z$ when two physical quantities with absolute errors $\\Delta A$ and $\\Delta B$ are added or subtracted?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "$\\Delta Z = \\Delta A + \\Delta B$",
+        "remarks": "When two quantities are added or subtracted, the absolute error in the final result is the sum of the absolute errors in the individual quantities. Examining all possible combinations of errors shows that the maximum possible absolute error equals the sum of the individual absolute errors.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\Delta Z = \\Delta A - \\Delta B$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\Delta Z = \\sqrt{(\\Delta A)^2 + (\\Delta B)^2}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\Delta Z = \\frac{\\Delta A + \\Delta B}{2}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 19,
+    "question": "What is the maximum relative error in $Z$ when two quantities are multiplied or divided as $Z = AB$ or $Z = \\frac{A}{B}$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$\\frac{\\Delta Z}{Z} = \\frac{\\Delta A}{A} + \\frac{\\Delta B}{B}$",
+        "remarks": "The maximum relative error in the result is equal to the sum of the relative errors in each of the individual quantities being multiplied or divided. This relationship is derived by dividing the expanded product equation and neglecting the very small product term of fractional errors.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\frac{\\Delta Z}{Z} = \\frac{\\Delta A}{A} - \\frac{\\Delta B}{B}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\frac{\\Delta Z}{Z} = \\left(\\frac{\\Delta A}{A}\\right) \\left(\\frac{\\Delta B}{B}\\right)$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\frac{\\Delta Z}{Z} = \\frac{\\Delta A}{A} \\times \\frac{\\Delta B}{B}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 19,
+    "question": "What is the general expression for the relative error in $Z$ given the quantity $Z = \\frac{A^p B^q}{C^r}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$\\frac{\\Delta Z}{Z} = p \\frac{\\Delta A}{A} + q \\frac{\\Delta B}{B} + r \\frac{\\Delta C}{C}$",
+        "remarks": "When a measured quantity is raised to a power, the relative error is multiplied by that power according to the rules of error propagation for multiplication. Extending this to powers in both numerator and denominator yields the sum of each individual relative error multiplied by its respective power exponent.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\frac{\\Delta Z}{Z} = p \\frac{\\Delta A}{A} - q \\frac{\\Delta B}{B} - r \\frac{\\Delta C}{C}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\frac{\\Delta Z}{Z} = \\frac{p \\Delta A}{q \\Delta B r \\Delta C}",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\frac{\\Delta Z}{Z} = \\frac{A^p B^q}{C^r} \\left(\\frac{\\Delta A}{A} + \\frac{\\Delta B}{B} + \\frac{\\Delta C}{C}\\right)$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 19,
+    "question": "In an experiment where mass is $m = (5 \\pm 0.15)$ kg and density is $\\rho = (5 \\pm 0.2)$ kg m$^{-3}$, what is the percentage error in the measurement of volume?",
+    "difficulty": "HARD",
+    "options": [
+      {
+        "option": "$7\\%$",
+        "remarks": "The volume is calculated by dividing mass by density, meaning the relative errors of mass and density must be added together. Substituting the given absolute and measured values yields $(0.03 + 0.04) \\times 100$, which results in a total percentage error of $7\\%$.",
+        "is_correct": true
+      },
+      {
+        "option": "$1\\%$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$3.5\\%$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$35\\%$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 20,
+    "question": "What is the least count of a usual metre scale as described in the source?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$0.1$ cm",
+        "remarks": "The text explicitly states that with the usual metre scale, one can measure 0.1 cm as the least value. This fundamental limitation defines the smallest measurement capability of the instrument.",
+        "is_correct": true
+      },
+      {
+        "option": "$1.0$ cm",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$0.01$ cm",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$0.5$ cm",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 20,
+    "question": "What formula gives the acceleration due to gravity $g$ derived from a simple pendulum's time period $T$ and length $l$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$g = 4\not\rho^2 \frac{l}{T^2}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$g = 4\tilde{\rho}^2 \frac{l}{T^2}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$g = 4\bar{\rho}^2 \frac{l}{T^2}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$g = 4\breve{\rho}^2 \frac{l}{T^2}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 20,
+    "question": "How are significant figures defined in measurements?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Only the digits about which we are completely certain",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "All uncertain digits present in the numerical reading",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The number of digits about which we are certain plus one additional uncertain digit",
+        "remarks": "Significant figures are formally defined as the number of digits in a measurement about which we are certain, plus one additional digit which is the first one about which we are not certain. This accounts for the precision limits of the measuring device.",
+        "is_correct": true
+      },
+      {
+        "option": "The total number of digits obtained in the arithmetic mean",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 21,
+    "question": "What is the order of magnitude for the radius of the Earth given as $6400 \\text{ km}$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "7",
+        "remarks": "The radius of the Earth expressed in scientific notation is $0.64 \\times 10^{7} \\text{ m}$, where the integer exponent of 10 gives the order of magnitude. Therefore, 7 is the correct order of magnitude for this measurement.",
+        "is_correct": true
+      },
+      {
+        "option": "6",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "8",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "2",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 21,
+    "question": "What is the condition on the number 'A' when expressing the magnitude of any physical quantity as $A \\times 10^{n}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$0.5 \\leq A < 5$",
+        "remarks": "The magnitude of any physical quantity can be expressed in scientific notation where A is a number restricted by this exact inequality range. This ensures a standardized representation for finding the order of magnitude.",
+        "is_correct": true
+      },
+      {
+        "option": "$1 \\leq A < 10$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$0 \\leq A \\leq 1$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$0.1 \\leq A < 1$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 22,
+    "question": "What is the exact numerical value of the Planck constant $h$ used in the new SI units?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$6.62607015 \\times 10^{-34} \\text{ J s}$",
+        "remarks": "The text explicitly states that the Planck constant is defined as $6.62607015 \\times 10^{-34}$ joule-second. This exact numerical value is chosen to define the fundamental units in the updated SI system.",
+        "is_correct": true
+      },
+      {
+        "option": "$1.380649 \\times 10^{-23} \\text{ J K}^{-1}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$1.602176634 \\times 10^{-19} \\text{ C}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$6.02214076 \\times 10^{23} \\text{ mol}^{-1}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 22,
+    "question": "Which constant corresponds to the exact value of $9192631770 \\text{ Hz}$ in the definitions of SI units?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "The ground state hyperfine structure transition frequency of Caesium-133 atom",
+        "remarks": "The source specifies that the ground state hyperfine structure transition frequency of the Caesium-133 atom is assigned the exact value of $9192631770$ hertz. This specific frequency serves as one of the seven foundational constants for the SI unit system.",
+        "is_correct": true
+      },
+      {
+        "option": "The luminous efficacy of monochromatic radiation of frequency $540 \\times 10^{12} \\text{ Hz}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The speed of light in vacuum",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The Planck constant",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 23,
+    "question": "What is the exact numerical value of the ground state hyperfine structure transition frequency of the Caesium-133 atom used to define the second?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "9192631770 hertz",
+        "remarks": "The definition of the second uses the ground state hyperfine structure transition frequency of the Caesium-133 atom to be exactly 9192631770 hertz. This specific frequency value serves as the fixed constant upon which the modern definition of the second is based.",
+        "is_correct": true
+      },
+      {
+        "option": "299792458 hertz",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "6.02214076 \times 10^{23} hertz",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "1992631770 hertz",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 23,
+    "question": "Which constant is explicitly used alongside the metre and the second in the definition of the kilogram?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Planck constant",
+        "remarks": "The newly defined unit kilogram uses the Planck constant, the metre, and the second. This relationship connects the kilogram to the equivalent mass of the energy of a photon given its frequency.",
+        "is_correct": true
+      },
+      {
+        "option": "Speed of light in vacuum",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Avogadro's number",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Caesium-133 transition frequency",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 23,
+    "question": "What precise numerical value defines Avogadro's number ($N_A$) for the mole?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "6.02214076 \times 10^{23}",
+        "remarks": "The mole uses Avogadro's number defined as N_A = 6.02214076 \times 10^{23}. Consequently, one mole is defined as the amount of substance containing exactly that number of molecules.",
+        "is_correct": true
+      },
+      {
+        "option": "9.192631770 \times 10^{9}",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "2.99792458 \times 10^{8}",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "1.299792458 \times 10^{10}",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 24,
+    "question": "What is the dimensional formula for Force?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$[L^1M^1T^{-2}]$",
+        "remarks": "Force is defined as mass multiplied by acceleration, leading to the derived dimensional formula $[L^1M^1T^{-2}]$. This expression correctly combines the dimensions of length, mass, and time according to standard mechanical quantities.",
+        "is_correct": true
+      },
+      {
+        "option": "$[L^1M^1T^{-1}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^2M^1T^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^1M^0T^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 24,
+    "question": "What physical quantity has the same dimensions as Work?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Force",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Acceleration",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Kinetic energy",
+        "remarks": "Kinetic energy shares the exact same dimensional formula and units as work because both represent forms of energy or energy transfer in mechanics. This dimensional equivalence allows them to be expressed with identical fundamental dimensions.",
+        "is_correct": true
+      },
+      {
+        "option": "Pressure",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 24,
+    "question": "What is the physical quantity measured by a Light year?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Time",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Mass",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Distance",
+        "remarks": "A light year represents the total distance that a beam of light travels through a vacuum in one Earth year. Despite containing the word year, it serves strictly as a astronomical unit of length rather than time.",
+        "is_correct": true
+      },
+      {
+        "option": "Luminosity",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 25,
+    "question": "What is the dimensional formula of the magnetic field $\\vec{B}$ when an electron with charge $e$ experiences a force $|\nvec{F}| = Bev$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$[L^0M^1T^{-2}I^{-1}]$",
+        "remarks": "The dimensional formula for the magnetic field is derived using the magnetic force equation where force is equated to the product of charge, velocity, and magnetic field. Substituting the dimensions of force, charge, and velocity yields the correct dimensional representation.",
+        "is_correct": true
+      },
+      {
+        "option": "$[L^1M^1T^{-2}I^{-1}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^0M^1T^{-1}I^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^1M^0T^{-2}I^{-1}]$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 25,
+    "question": "What is the order of magnitude of the nuclear radius $R$ expressed in metres for a nucleus of mass number $A = 125$ given the relation $R = 1.3 \\times 10^{-16} A^{1/3}$ m?",
+    "difficulty": "HARD",
+    "options": [
+      {
+        "option": "-15",
+        "remarks": "Substituting the mass number into the given nuclear radius expression yields a value that simplifies to a power of ten corresponding to this order of magnitude. This calculation accurately reflects the scale of the nuclear radius in metres.",
+        "is_correct": true
+      },
+      {
+        "option": "-16",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "-14",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "-17",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 25,
+    "question": "What is the percentage error in the kinetic energy of a body having a mass of $60.0 \\pm 0.3$ g moving with a velocity of $25.0 \\pm 0.1$ cm/s?",
+    "difficulty": "HARD",
+    "options": [
+      {
+        "option": "1.3%",
+        "remarks": "The percentage error in kinetic energy is calculated by combining the relative errors of both mass and twice the velocity using propagation of errors. Evaluating these given measurements produces the final percentage error of one point three percent.",
+        "is_correct": true
+      },
+      {
+        "option": "0.5%",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "1.0%",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "2.1%",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 26,
+    "question": "What is the dimensional formula for constant $b$ in the dimensionally valid equation $v = at + \\frac{b}{t + c} + v_0$, where $v$ is velocity and $t$ is time?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$[L^1M^0T^0]$",
+        "remarks": "The term $\\frac{b}{t + c}$ must have the same dimensions as velocity $v$, which is $[LT^{-1}]$. Since $t + c$ has the dimensions of time $T$, multiplying $LT^{-1}$ by $T$ yields $[L^1M^0T^0]$ for the dimensional formula of $b$.",
+        "is_correct": true
+      },
+      {
+        "option": "$[L^1M^0T^{-2}]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^0M^0T^1]$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$[L^1M^0T^{-1}]$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 26,
+    "question": "What is the percentage error in the determination of physical quantity $X$ given by the formula $X = \\frac{a^4b^3}{c^{1/3}d^{1/2}}$, when the percentage errors in the measurements of $a$, $b$, $c$ and $d$ are 2%, 3%, 3% and 4% respectively?",
+    "difficulty": "HARD",
+    "options": [
+      {
+        "option": "20%",
+        "remarks": "The maximum fractional error in $X$ is calculated using the relation $\\frac{\\Delta X}{X} = 4\\frac{\\Delta a}{a} + 3\\frac{\\Delta b}{b} + \\frac{1}{3}\\frac{\\Delta c}{c} + \\frac{1}{2}\\frac{\\Delta d}{d}$. Substituting the given percentage errors gives $4(2\\%) + 3(3\\%) + \\frac{1}{3}(3\\%) + \\frac{1}{2}(4\\%) = 8\\% + 9\\% + 1\\% + 2\\% = 20\\%$.",
+        "is_correct": true
+      },
+      {
+        "option": "18%",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "22%",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "12%",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 26,
+    "question": "What is the number of significant figures in the measurement $0.1250\\ gm\\ cm^{-2}$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "4",
+        "remarks": "Trailing zeros to the right of a decimal point are significant in a measurement. Therefore, all four digits in $0.1250$ are counted as significant figures.",
+        "is_correct": true
+      },
+      {
+        "option": "3",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "5",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "2",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 27,
+    "question": "What mathematical tools are specifically introduced for understanding physics topics in the book?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Vector analysis and elementary calculus",
+        "remarks": "Vector analysis and elementary calculus are explicitly identified as the mathematical tools needed to understand the topics covered in the book. This foundational knowledge supports the physical concepts presented throughout the chapters.",
+        "is_correct": true
+      },
+      {
+        "option": "Trigonometry and linear algebra",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Differential equations and complex analysis",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Arithmetic and geometry",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 27,
+    "question": "How are scalar quantities described?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "With magnitude alone",
+        "remarks": "Scalar quantities are defined as physical quantities that can be described with magnitude alone. This distinguishes them from vectors, which require both magnitude and direction.",
+        "is_correct": true
+      },
+      {
+        "option": "With both magnitude and direction",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "With direction and units only",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "With fundamental units alone",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 27,
+    "question": "Which of the following is an example of a vector quantity?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Displacement",
+        "remarks": "Displacement is described by magnitude and direction, making it a vector quantity. In contrast, quantities like distance travelled are classified as scalars.",
+        "is_correct": true
+      },
+      {
+        "option": "Distance travelled",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Speed",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Time",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 28,
+    "question": "What mathematical rules are used to add or subtract scalar quantities?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Rules of simple algebra",
+        "remarks": "Scalars are physical quantities described completely by magnitude and can be combined using standard numerical operations. Therefore, the addition and subtraction of scalars follow the standard rules of simple algebra.",
+        "is_correct": true
+      },
+      {
+        "option": "Vector addition rules",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Geometrical cross-multiplication",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Tensor calculus equations",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 28,
+    "question": "What is the starting point P of a directed line segment representing a vector $P \to Q$ called?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Tail",
+        "remarks": "A vector is represented by a directed line segment where the starting point is designated as the tail. This nomenclature identifies the origin point of the vector before the arrow head at the end.",
+        "is_correct": true
+      },
+      {
+        "option": "Head",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Magnitude",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Scalar",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 28,
+    "question": "What type of vector is represented by the velocity vector of a stationary particle?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Zero vector",
+        "remarks": "A vector possessing zero magnitude along with an arbitrary direction is defined as a zero or null vector. Since a stationary particle has no velocity, its corresponding velocity vector is a zero vector.",
+        "is_correct": true
+      },
+      {
+        "option": "Resultant vector",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Unit vector",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Displacement vector",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 29,
+    "question": "What is the defining characteristic of a negative vector with respect to a given vector?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "It has the same magnitude and opposite direction.",
+        "remarks": "A negative vector is defined as having the same magnitude but an opposite direction compared to the given vector. This satisfies the precise conditions set forth for opposite vector relationships.",
+        "is_correct": true
+      },
+      {
+        "option": "It has a different magnitude and the same direction.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It has the same magnitude and the same direction.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It has a zero magnitude and opposite direction.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 29,
+    "question": "What does a position vector represent for a particle in a coordinate system?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "The position of a particle at a point with respect to the origin.",
+        "remarks": "A position vector explicitly gives the location of a particle at a point relative to the origin of a chosen coordinate system. This definition accurately distinguishes it from other vector types.",
+        "is_correct": true
+      },
+      {
+        "option": "The total distance traveled by the particle along a curved path.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The velocity of the particle relative to a moving frame.",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The magnitude of the force acting on the particle at the origin.",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 29,
+    "question": "Which formula correctly expresses the unit vector $\\hat{u}_M$ along a non-zero vector $\\vec{M}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$$\\hat{u}_M = \\frac{\\vec{M}}{M}$$",
+        "remarks": "A unit vector along a non-zero vector is defined as that vector divided by its own magnitude. This mathematical expression correctly yields a vector of unit magnitude pointing in the original direction.",
+        "is_correct": true
+      },
+      {
+        "option": "$$\\hat{u}_M = \\vec{M} M$$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$$\\hat{u}_M = \\frac{M}{\\vec{M}}$$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$$\\hat{u}_M = \\vec{M} + M$$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 30,
+    "question": "What is the direction of vector $\\vec{Q}$ obtained by multiplying vector $\\vec{P}$ by a positive scalar $s$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "The same as that of $\\vec{P}$",
+        "remarks": "Multiplying a vector by a scalar yields a vector whose direction is the same as the original vector and magnitude is scaled. This definition ensures the scaled vector maintains directional alignment with the original vector.",
+        "is_correct": true
+      },
+      {
+        "option": "Perpendicular to $\\vec{P}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Opposite to that of $\\vec{P}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "At an angle of $45^{\\circ}$ to $\\vec{P}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 30,
+    "question": "Which of the following operations is physically permissible for vectors?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Adding a force vector to another force vector",
+        "remarks": "Only vectors of the same type describing the same physical quantity can be added or subtracted together. Since both quantities are forces, their addition is valid and yields a resultant force vector.",
+        "is_correct": true
+      },
+      {
+        "option": "Adding a force vector to a velocity vector",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Subtracting a velocity vector from a displacement vector",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Adding a scalar to a vector quantity",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 30,
+    "question": "What is the magnitude of the resultant vector when two parallel vectors $\\vec{AB}$ and $\\vec{BC}$ are added?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$|\\vec{AB}| + |\\vec{BC}|$",
+        "remarks": "When individual vectors are parallel in the same direction, the magnitude of their resultant is the sum of their individual magnitudes. This rule follows directly from combining parallel vector displacements.",
+        "is_correct": true
+      },
+      {
+        "option": "$|\\vec{AB}| - |\\vec{BC}|$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\sqrt{|\\vec{AB}|^2 + |\\vec{BC}|^2}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\frac{1}{2}(|\\vec{AB}| + |\\vec{BC}|)$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 31,
+    "question": "What does the third side of the triangle represent in magnitude and direction according to the triangle law of vector addition?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "The resultant of the two vectors drawn in the opposite sense",
+        "remarks": "The source states that the resultant is represented in magnitude and direction by the third side drawn in the opposite sense from the starting point of the first vector to the end point of the second vector. This directly defines the geometric representation of the resultant vector.",
+        "is_correct": true
+      },
+      {
+        "option": "The sum of the magnitudes of the two vectors taken in order",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The difference between the two vectors taken in the same sense",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The cross product of the two vectors in the plane of paper",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 31,
+    "question": "Which algebraic property of vector addition is expressed by the relation $\\vec{P} + \\vec{Q} = \\vec{Q} + \\vec{P}$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Commutative law",
+        "remarks": "The text explicitly labels the relation $\\vec{P} + \\vec{Q} = \\vec{Q} + \\vec{P}$ under the property showing that vector addition is commutative. This property allows vectors to be added in any order without changing the resultant sum.",
+        "is_correct": true
+      },
+      {
+        "option": "Associative law",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Distributive law",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Triangle law",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 31,
+    "question": "How is the associative law of vector addition expressed for any three vectors $\\vec{A}$, $\\vec{B}$, and $\\vec{C}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$(\\vec{A} + \\vec{B}) + \\vec{C} = \\vec{A} + (\\vec{B} + \\vec{C})$",
+        "remarks": "The source explicitly provides the equation $(\\vec{A} + \\vec{B}) + \\vec{C} = \\vec{A} + (\\vec{B} + \\vec{C})$ to demonstrate that vector addition is associative. This equation shows that the grouping of vectors during addition does not affect the final resultant vector.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\vec{A} + \\vec{B} = \\vec{B} + \\vec{A}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$(\\vec{A} + \\vec{C}) + \\vec{B} = \\vec{C} + (\\vec{A} + \\vec{B})$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\vec{A} + (\\vec{B} + \\vec{C}) = (\\vec{C} + \\vec{A}) + \\vec{B}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 32,
+    "question": "What mathematical law of vector addition is represented by the relation $(\\vec{A} + \\vec{B}) + \\vec{C} = \\vec{A} + (\\vec{B} + \\vec{C})$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Associative law",
+        "remarks": "The text explicitly states that grouping the vectors as $(\\vec{A} + \\vec{B}) + \\vec{C} = \\vec{A} + (\\vec{B} + \\vec{C})$ proves the associative law. This relation demonstrates that the sum remains unchanged regardless of the grouping of the vectors during addition.",
+        "is_correct": true
+      },
+      {
+        "option": "Commutative law",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Distributive law",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Triangle law",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 32,
+    "question": "What is the expression for vector $\\vec{AC}$ in terms of $\\vec{AB}$ and $\\def\\CB{\\vec{CB}}\\CB$ according to the triangle law of addition?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$\\vec{AC} = \\vec{AB} - \\vec{CB}$",
+        "remarks": "The triangle law of vector addition gives the relation $\\vec{AC} + \\vec{CB} = \\vec{AB}$. Rearranging this equation yields $\\vec{AC} = \\vec{AB} - \\vec{CB}$, which correctly expresses vector $\\vec{AC}$ in terms of the other two vectors.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\vec{AC} = \\vec{AB} + \\vec{CB}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\vec{AC} = \\vec{CB} - \\vec{AB}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\vec{AC} = -\\vec{AB} - \\vec{CB}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 32,
+    "question": "What does the diagonal of a parallelogram represent when two adjacent sides represent two vectors originating from the same point?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "The resultant vector in magnitude and direction",
+        "remarks": "According to the parallelogram law of vector addition, the diagonal starting from the same point gives the resultant vector in both magnitude and direction. This geometrical method applies when two vectors originate from the same point.",
+        "is_correct": true
+      },
+      {
+        "option": "The difference between the two vectors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The cross product of the two vectors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The scalar product of the two vectors",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 33,
+    "question": "What is the formula for the magnitude of the resultant vector $\\vec{R}$ obtained from the parallelogram law of vector addition for two vectors $\\vec{P}$ and $\\vec{Q}$ inclined at an angle $\\theta$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$R = \\sqrt{P^2 + Q^2 + 2 P Q \\cos \\theta}$",
+        "remarks": "The magnitude of the resultant vector is derived by applying Pythagoras theorem to the constructed right-angled triangles in the parallelogram method. This mathematical relation accounts for both the individual vector magnitudes and the angle between them.",
+        "is_correct": true
+      },
+      {
+        "option": "$R = \\sqrt{P^2 + Q^2 - 2 P Q \\cos \\theta}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$R = P + Q \\sin \\theta$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$R = \\sqrt{P^2 + Q^2 + 2 P Q \\sin \\theta}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 33,
+    "question": "Which equation gives the direction angle $\\alpha$ made by the resultant vector $\\vec{R}$ with vector $\\vec{P}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$\\alpha = \\tan^{-1} \\left( \\frac{Q \\sin \\theta}{P + Q \\cos \\theta} \right)$",
+        "remarks": "The direction of the resultant vector is determined by finding the tangent of angle alpha using the ratio of perpendicular and base lengths from triangle ODC. Substituting the trigonometric components yields this exact inverse tangent expression.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\alpha = \\tan^{-1} \\left( \\frac{P \\sin \\theta}{Q + P \\cos \\theta} \right)$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\alpha = \\sin^{-1} \\left( \\frac{Q \\sin \\theta}{P + Q \\cos \\theta} \right)$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\alpha = \\tan^{-1} \\left( \\frac{Q \\cos \\theta}{P + Q \\sin \\theta} \right)$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 34,
+    "question": "What is the direction formula for the angle $\beta$ between the resultant vector $\\overrightarrow{R}$ and the vector $\\overrightarrow{Q}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$\\beta = \\tan^{-1} \\left( \\frac{P \\sin \\theta}{Q + P \\cos \\theta} \\right)$",
+        "remarks": "The derived expression for the angle between the resultant vector and vector Q involves the magnitude of P in the numerator with sine and the denominator containing Q plus P cosine theta. This formula matches the derivation analogous to Equation (2.10) for angle alpha.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\beta = \\tan^{-1} \\left( \\frac{Q \\sin \\theta}{P + Q \\cos \\theta} \\right)$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\beta = \\tan^{-1} \\left( \\frac{P \\cos \\theta}{Q + P \\sin \\theta} \\right)$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\beta = \\tan^{-1} \\left( \\frac{Q \\cos \\theta}{P + Q \\sin \\theta} \\right)$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 34,
+    "question": "What is the definition of the resolution of a vector?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "The process of splitting a given vector into its components",
+        "remarks": "Splitting a vector into its components along chosen directions is formally defined as the resolution of the vector. This allows the vector to be written as a sum of vectors along fixed directions.",
+        "is_correct": true
+      },
+      {
+        "option": "The process of combining multiple vectors into a single resultant vector",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The process of calculating the cross product of two vectors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The process of finding the unit vector along a specific direction",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 34,
+    "question": "What term is used to describe vector components when they are found along mutually perpendicular directions?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Rectangular components",
+        "remarks": "Components of a vector that are found along directions which are mutually perpendicular are specifically called rectangular components. This is a direct categorization of vector components based on their directional orientation.",
+        "is_correct": true
+      },
+      {
+        "option": "Parallel components",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Resultant components",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Unit components",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 35,
+    "question": "What is the formula for the magnitude of a vector $\\vec{R}$ given its rectangular components $R_x$ and $R_y$ in two dimensions?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$R = \\sqrt{R_x^2 + R_y^2}$",
+        "remarks": "The magnitude of a vector in two dimensions is derived by squaring and adding its rectangular components and taking the square root. This relationship directly follows from the Pythagorean theorem applied to the vector components.",
+        "is_correct": true
+      },
+      {
+        "option": "$R = R_x + R_y$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$R = \\sqrt{R_x + R_y}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$R = R_x^2 + R_y^2$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 35,
+    "question": "Which expression defines the direction angle $\\theta$ of a vector $\\vec{R}$ with respect to the x-axis in terms of its rectangular components $R_x$ and $R_y$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$\\theta = \\tan^{-1} \\left( \\frac{R_y}{R_x} \\right)$",
+        "remarks": "The direction of the vector is found by taking the inverse tangent of the ratio of the y-component to the x-component. This comes from the trigonometric relation $\\tan \\theta = \\frac{R_y}{R_x}$.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\theta = \\tan^{-1} \\left( \\frac{R_x}{R_y} \\right)$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\theta = \\sin^{-1} \\left( \\frac{R_x}{R_y} \\right)$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\theta = \\cos^{-1} \\left( \\frac{R_y}{R_x} \\right)$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 35,
+    "question": "How are the components of two equal vectors $\\vec{A}$ and $\\vec{B}$ related in a three-dimensional Cartesian coordinate system?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$A_x = B_x, A_y = B_y, \\text{ and } A_z = B_z$",
+        "remarks": "Equality of two vectors implies that their corresponding rectangular components along all coordinate axes are equal. Conversely, if all corresponding components are equal, the vectors are equal.",
+        "is_correct": true
+      },
+      {
+        "option": "$A_x + A_y + A_z = B_x + B_y + B_z$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$A_x = B_y, A_y = B_z, \\text{ and } A_z = B_x$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$A_x B_x = A_y B_y = A_z B_z$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 36,
+    "question": "What is the magnitude of the vector $\bar{V} = 3\bar{i} + 4\bar{j}$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "5",
+        "remarks": "The magnitude of the vector is calculated using the square root of the sum of the squares of its components, which gives $\\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$. This mathematical operation properly determines the length of the given vector.",
+        "is_correct": true
+      },
+      {
+        "option": "7",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "\\sqrt{7}",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "25",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 36,
+    "question": "What is the resulting quantity when a scalar is multiplied with a vector?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Always a vector",
+        "remarks": "Multiplying a scalar with a vector results in a new vector quantity as described in the fundamental rules of vector operations. This ensures the output maintains directional properties associated with the original vector.",
+        "is_correct": true
+      },
+      {
+        "option": "Always a scalar",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Either a scalar or a vector",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "A dimensionless quantity",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 36,
+    "question": "How is the scalar product of two nonzero vectors $\\bar{P}$ and $\\bar{Q}$ defined?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$PQ \\cos \\theta$",
+        "remarks": "The scalar product or dot product of two nonzero vectors is defined as the product of their magnitudes multiplied by the cosine of the angle between them. This formula correctly incorporates both individual vector magnitudes and their relative orientation.",
+        "is_correct": true
+      },
+      {
+        "option": "$PQ \\sin \\theta$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$PQ \\tan \\theta$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$P + Q \\cos \\theta$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 37,
+    "question": "What is the scalar product of two parallel vectors $\\vec{P}$ and $\\vec{Q}$ where the angle between them is $\\theta = 0$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$PQ$",
+        "remarks": "When the angle between two vectors is zero, the cosine of zero is one, making the scalar product equal to the product of their magnitudes. This represents the maximum value of the scalar product for given magnitudes.",
+        "is_correct": true
+      },
+      {
+        "option": "$0$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$PQ \\cos \\theta$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$PQ \\sin \\theta$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 37,
+    "question": "Which mathematical law of vector multiplication is satisfied by the scalar product relation $\\vec{P} \\cdot \\vec{Q} = \\vec{Q} \\cdot \\vec{P}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Commutative law",
+        "remarks": "The scalar product yields the same result regardless of the order of the vectors being multiplied together. This property defines the commutative law of vector multiplication.",
+        "is_correct": true
+      },
+      {
+        "option": "Distributive law",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Associative law",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Cancellation law",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 37,
+    "question": "What formula defines the work done $W$ by a force $\\vec{F}$ acting at an angle $\\theta$ to a displacement $\\vec{S}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$W = \\vec{F} \\cdot \\vec{S}$",
+        "remarks": "Work done is defined as the product of the force and the displacement in the direction of the force, which corresponds to the scalar product of the force and displacement vectors.",
+        "is_correct": true
+      },
+      {
+        "option": "$W = F \\times S$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$W = \\vec{F} \\times \\vec{S}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$W = FS \\sin \\theta$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 38,
+    "question": "What is the formula for power $P$ expressed as the scalar product of force $\bar{F}$ and velocity $\bar{v}$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$P = \\vec{F} \\cdot \\vec{v}$",
+        "remarks": "Power is defined as the scalar product of the constant external force and the velocity of the body. This relationship directly translates the definition of power into a vector dot product.",
+        "is_correct": true
+      },
+      {
+        "option": "$P = \\vec{F} \\times \\vec{v}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$P = \\frac{\\vec{F}}{\\vec{v}}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$P = F v \\sin \\theta$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 38,
+    "question": "What is the scalar product of two vectors $\\vec{P}$ and $\\vec{Q}$ when they are perpendicular to each other?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "0",
+        "remarks": "When two vectors are perpendicular, the angle between them is 90 degrees. Since the cosine of 90 degrees is zero, their scalar product evaluates to zero.",
+        "is_correct": true
+      },
+      {
+        "option": "1",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "-P Q",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "P Q",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 38,
+    "question": "How is the scalar product of two vectors $\\vec{P}$ and $\\vec{Q}$ expressed in terms of their rectangular components $P_x, P_y, P_z$ and $Q_x, Q_y, Q_z$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$P_x Q_x + P_y Q_y + P_z Q_z$",
+        "remarks": "The scalar product of vectors in terms of rectangular components is calculated by summing the products of their respective matching Cartesian components. This yields a scalar value derived from the vector components.",
+        "is_correct": true
+      },
+      {
+        "option": "$P_x Q_x - P_y Q_y - P_z Q_z$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$P_x Q_y + P_y Q_z + P_z Q_x$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$(P_x + P_y + P_z)(Q_x + Q_y + Q_z)$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 39,
+    "question": "What is the dot product of the orthogonal unit vectors $\\hat{i} \\cdot \\hat{j}$?",
+    "difficulty": "EASY",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "$0$",
+        "remarks": "The dot product of distinct orthogonal unit vectors such as $\\hat{i}$ and $\\hat{j}$ equals zero. This result stems from the fact that mutually perpendicular unit vectors have a cosine of ninety degrees between them.",
+        "is_correct": true
+      },
+      {
+        "option": "$1$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$-1$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Undefined",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 39,
+    "question": "What is the expanded component form of the scalar product $\\vec{P} \\cdot \\vec{Q}$?",
+    "difficulty": "MEDIUM",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "$P_x Q_x + P_y Q_y + P_z Q_z$",
+        "remarks": "The scalar product in terms of components simplifies to the sum of the products of corresponding vector components. This follows from the orthonormality properties where self-products equal one and cross-products vanish.",
+        "is_correct": true
+      },
+      {
+        "option": "$P_x Q_y + P_y Q_z + P_z Q_x$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$P_x + Q_x + P_y + Q_y + P_z + Q_z$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$P_x Q_x \\hat{i} + P_y Q_y \\hat{j} + P_z Q_z \\hat{k}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 39,
+    "question": "What does the equation $\\vec{a} \\cdot (\\vec{b} - \\vec{c}) = 0$ imply when $\\vec{a} \\neq 0$?",
+    "difficulty": "HARD",
+    "status": "PENDING",
+    "options": [
+      {
+        "option": "Either $\\vec{b} - \\vec{c} = 0$ or $\\vec{a}$ is perpendicular to $\\vec{b} - \\vec{c}$",
+        "remarks": "The dot product of a non-zero vector with another vector can be zero if the second vector is the zero vector or if the two vectors are perpendicular. Therefore, equality of $\\vec{b}$ and $\\vec{c}$ is not strictly required by $\\vec{a} \\cdot \\vec{b} = \\vec{a} \\cdot \\vec{c}$.",
+        "is_correct": true
+      },
+      {
+        "option": "It strictly implies that $\\vec{b} = \\vec{c}$ always",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It implies that $\\vec{a}$ is parallel to $\\vec{b} - \\vec{c}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "It requires the magnitude of $\\vec{a}$ to equal zero",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 40,
+    "question": "What is the direction of the unit vector $\\hat{u}_r$ in the vector product of two vectors $\\vec{P}$ and $\\vec{Q}$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Perpendicular to the plane containing the two vectors",
+        "remarks": "The definition states that the direction is given by a unit vector perpendicular to the plane containing the two vectors. This specifies the correct spatial orientation relative to the input vectors.",
+        "is_correct": true
+      },
+      {
+        "option": "Parallel to the plane containing the two vectors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Along the direction of vector $\\vec{P}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Along the direction of vector $\\vec{Q}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 40,
+    "question": "Which empirical law gives the force $\\vec{F}$ experienced by a charge $q$ moving with velocity $\\vec{v}$ through a uniform magnetic field $\\vec{B}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$$\\vec{F} = q\\vec{v} \\times \\vec{B}$$",
+        "remarks": "The force experienced by a moving charge in a magnetic field is determined empirically as a vector product of velocity and magnetic induction. This specific formula correctly identifies the relationship given in the source.",
+        "is_correct": true
+      },
+      {
+        "option": "$$\\vec{F} = q\\vec{B} \\times \\vec{v}$$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$$\\vec{F} = \\vec{v} \\times \\vec{B}$$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$$\\vec{F} = q(\\vec{v} \\cdot \\vec{B})$$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 40,
+    "question": "What is the relationship between linear velocity $\\vec{v}$, angular velocity $\\vec{\\omega}$, and distance $\\vec{r}$ from the axis of rotation for a rotating body?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$$\\vec{v} = \\vec{\\omega} \\times \\vec{r}$$",
+        "remarks": "The linear velocity of a rotating body at a distance from the axis of rotation is defined by the cross product of angular velocity and distance vector. This equation accurately matches the relation provided in the supplementary information.",
+        "is_correct": true
+      },
+      {
+        "option": "$$\\vec{v} = \\vec{r} \\times \\vec{\\omega}$$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$$\\vec{v} = \\vec{\\omega} \\cdot \\vec{r}$$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$$\\vec{v} = \\frac{\\vec{\\omega}}{\\vec{r}}$$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 41,
+    "question": "What is the direction of the torque vector $\tau$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Along the axis of rotation",
+        "remarks": "Torque is described as a vector quantity whose direction is along the axis of rotation. This correctly identifies the directional property of the torque vector as defined in rotational mechanics.",
+        "is_correct": true
+      },
+      {
+        "option": "Perpendicular to the axis of rotation",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Parallel to the applied force vector",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "In the direction of the position vector",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 41,
+    "question": "How is the magnitude of the cross product of two vectors represented when the angle between them is $90^\theta$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Equal to the product of magnitudes of the two vectors",
+        "remarks": "When two nonzero vectors are perpendicular to each other, the sine of 90 degrees is one. Therefore, the magnitude of their vector product equals the product of their individual magnitudes.",
+        "is_correct": true
+      },
+      {
+        "option": "Zero",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Equal to zero point five times the product of magnitudes",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Equal to the sum of the magnitudes of the two vectors",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 41,
+    "question": "What is the result of the cross product $\\hat{i} \\times \\hat{j}$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$\\hat{k}$",
+        "remarks": "Orthogonal unit vectors follow specific cross product rules where perpendicular pairs yield the third orthogonal unit vector. Specifically, the cross product of $\\hat{i}$ and $\\hat{j}$ results in $\\hat{k}$.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\hat{i}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\hat{j}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Zero vector",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 42,
+    "question": "What is the cross product of identical unit vectors such as $\\hat{i} \\times \\hat{i}$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$0$",
+        "remarks": "The cross product of any vector with itself yields zero because the angle between identical vectors is zero degrees. Since the sine of zero degrees is zero, the resulting magnitude of the cross product is also zero.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\hat{i}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "1",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\hat{k}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 42,
+    "question": "What is the result of the cross product $\\hat{i} \\times \\hat{k}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$-\\hat{j}$",
+        "remarks": "The cross product of unit vector i and unit vector k results in negative j. This follows from the specific cyclic or anti-commutative properties of orthogonal unit vector cross products.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\hat{j}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "0",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$-\\hat{i}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 42,
+    "question": "What geometric quantity is numerically equal to the magnitude of the cross product of two vectors?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "The area of a parallelogram whose adjacent sides represent the two vectors",
+        "remarks": "The magnitude of the cross product of two vectors is numerically equal to the area of a parallelogram whose adjacent sides represent those two vectors. This provides a direct geometric interpretation of vector multiplication.",
+        "is_correct": true
+      },
+      {
+        "option": "The perimeter of a parallelogram whose adjacent sides represent the two vectors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The volume of a parallelepiped formed by the vectors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The area of a triangle formed by the two vectors",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 43,
+    "question": "What is the geometric representation of the magnitude of the cross product of two vectors?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "The area of a triangle formed by the vectors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The area of a parallelogram whose adjacent sides represent the two vectors",
+        "remarks": "The source explicitly states that the magnitude of the cross product of two vectors is numerically equal to the area of a parallelogram whose adjacent sides represent the two vectors. This geometric interpretation connects vector multiplication directly to the product of the base and height.",
+        "is_correct": true
+      },
+      {
+        "option": "The perimeter of a parallelogram formed by the vectors",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "The volume of a parallelepiped formed by the vectors",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 43,
+    "question": "Which formula defines the angular momentum $\\vec{L}$ in terms of the position vector $\\vec{r}$ and linear momentum $\\vec{p}$?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "$\\vec{L} = \\vec{r} \\times \\vec{p}$",
+        "remarks": "Example 2.7 explicitly defines angular momentum as the cross product of the position vector and linear momentum. This fundamental relation utilizes vector multiplication to determine rotational dynamics from translational quantities.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\vec{L} = \\vec{r} \\cdot \\vec{p}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\vec{L} = \\frac{\\vec{r}}{\\vec{p}}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\vec{L} = \\vec{r} + \\vec{p}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 43,
+    "question": "Which mathematical expression represents the cosine of the angle $\\theta$ between two vectors $\\vec{A}$ and $\\vec{B}$?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "$\\cos \\theta = \\frac{A_x B_x + A_y B_y + A_z B_z}{AB}$",
+        "remarks": "Example 2.8 demonstrates that the cosine of the angle between two vectors is found by taking the dot product divided by the product of their magnitudes. This expands into the component form using $A_x B_x + A_y B_y + A_z B_z$ divided by the square roots of the sum of squared components.",
+        "is_correct": true
+      },
+      {
+        "option": "$\\cos \\theta = \\frac{|\\vec{A} \\times \\vec{B}|}{AB}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\cos \\theta = \\frac{A_x + A_y + A_z}{B_x + B_y + B_z}$",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "$\\cos \\theta = \\frac{\\sqrt{A_x^2 + B_x^2}}{AB}$",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 44,
+    "question": "What are the two basic branches of calculus introduced in the study of continuous changes?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Differential and integral calculus",
+        "remarks": "Calculus is divided into two fundamental branches known as differential and integral calculus. These specific branches are necessary to understand the physics topics covered in the textbook.",
+        "is_correct": true
+      },
+      {
+        "option": "Algebra and geometry",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Trigonometry and vector calculus",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Arithmetic and statistics",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 44,
+    "question": "Who first developed the branch of mathematics known as calculus in the 17th century?",
+    "difficulty": "EASY",
+    "options": [
+      {
+        "option": "Albert Einstein and Max Planck",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "G.W Leibnitz and Sir Issac Newton",
+        "remarks": "Calculus was initially developed during the seventeenth century by G.W Leibnitz and Sir Issac Newton. Their pioneering mathematical work is extensively applied across various scientific disciplines.",
+        "is_correct": true
+      },
+      {
+        "option": "Galileo Galilei and Johannes Kepler",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "René Descartes and Pierre de Fermat",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "chunk_id": 44,
+    "question": "What is the specific mathematical condition for two vectors $\\vec{P}$ and $\\vec{Q}$ to have the same direction?",
+    "difficulty": "MEDIUM",
+    "options": [
+      {
+        "option": "Their corresponding components must be in the same proportion",
+        "remarks": "When two vectors share an identical direction, the ratio of their respective components along each axis remains constant. This proportional relationship allows us to solve for unknown variables within vector equations.",
+        "is_correct": true
+      },
+      {
+        "option": "Their vector cross product must equal zero",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Their dot product must equal one",
+        "remarks": "",
+        "is_correct": false
+      },
+      {
+        "option": "Their magnitudes must be equal to each other",
+        "remarks": "",
+        "is_correct": false
+      }
+    ]
+  }
+]
